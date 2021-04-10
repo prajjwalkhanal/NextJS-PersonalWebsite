@@ -14,7 +14,9 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Button from "components/CustomButtons/Button.js";
 import Parallax from "components/Parallax/Parallax.js";
-
+// sections for this page
+import AboutMe from "pages-sections/LandingPage-Sections/AboutMe.js";
+//import MySkill from "pages-sections/LandingPage-Sections/MySkill.js";
 
 import styles from "assets/jss/nextjs-material-kit/pages/components.js";
 
@@ -43,7 +45,7 @@ export default function Components(props) {
               <div className={classes.brand}>
                 <h1 className={classes.title}>Prajjwal Khanal</h1>
                 <h3 className={classes.subtitle}>
-                Cloud, AWS, DevOps and more…
+                  Cloud, AWS, DevOps and many more...
                 </h3>
               </div>
             </GridItem>
@@ -52,19 +54,8 @@ export default function Components(props) {
       </Parallax>
 
       <div className={classNames(classes.main, classes.mainRaised)}>
-
-
-        <GridItem md={12} className={classes.textCenter}>
-          <Link href="/login">
-            <a className={classes.link}>
-              <Button color="primary" size="lg" simple>
-                View Login Page
-              </Button>
-            </a>
-          </Link>
-        </GridItem>
-        <SectionExamples />
-        <SectionDownload />
+        <AboutMe/>
+        
       </div>
       <Footer />
     </div>
