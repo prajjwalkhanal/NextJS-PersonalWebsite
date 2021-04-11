@@ -122,7 +122,7 @@ module.exports = require("next/dist/next-server/lib/utils.js");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/AWS-432ee0da963d78b66d5c560f43fd9299.png";
+module.exports = "/_next/static/images/AWS-d9c529a30b84ada78600c21f493cdf3d.png";
 
 /***/ }),
 
@@ -177,7 +177,7 @@ module.exports = "/_next/static/images/MYSQL-be9251182f1c4d05f3f836cc3f39898b.pn
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/Microsoft_Azure-07fabc16eb1d54f7d3c135ee41e190df.png";
+module.exports = "/_next/static/images/Microsoft_Azure-7bf4f82b3ee63de4457f9f50273a9745.png";
 
 /***/ }),
 
@@ -188,7 +188,7 @@ module.exports = "/_next/static/images/Microsoft_Azure-07fabc16eb1d54f7d3c135ee4
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/PHP-d27278dc5a547f6c1e7dbc73c5bfb065.png";
+module.exports = "/_next/static/images/PHP-1b29a538acb3efa07b2289d932b2daa9.png";
 
 /***/ }),
 
@@ -210,7 +210,7 @@ module.exports = "/_next/static/images/Saas-14f383a9f5902389dd54ba3f2440e46d.png
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/Vmware-8607de6aa5c9866c462f276349360940.png";
+module.exports = "/_next/static/images/Vmware-2a563dc21a320c35f771c6d4bb3a2ea3.png";
 
 /***/ }),
 
@@ -221,7 +221,7 @@ module.exports = "/_next/static/images/Vmware-8607de6aa5c9866c462f276349360940.p
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/WindowsServer-2e1217eb0d06b50900887533134f9f36.png";
+module.exports = "/_next/static/images/WindowsServer-115cad20b9fbd3eb496f07dc503d1921.png";
 
 /***/ }),
 
