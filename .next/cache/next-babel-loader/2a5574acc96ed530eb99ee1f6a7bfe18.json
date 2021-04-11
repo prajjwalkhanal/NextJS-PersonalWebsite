@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function MySkill() {\n  var classes = useStyles();\n  return 1;\n}","map":null,"metadata":{},"sourceType":"module"}
