@@ -1,0 +1,330 @@
+webpackHotUpdate("static/development/pages/landingpage.js",{
+
+/***/ "./pages-sections/LandingPage-Sections/MySkills.js":
+/*!*********************************************************!*\
+  !*** ./pages-sections/LandingPage-Sections/MySkills.js ***!
+  \*********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return MySkills; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/styles */ "./node_modules/@material-ui/core/esm/styles/index.js");
+/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
+/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
+/* harmony import */ var assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! assets/img/Skills/AWS.png */ "./assets/img/Skills/AWS.png");
+/* harmony import */ var assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js */ "./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js");
+var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/LandingPage-Sections/MySkills.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+ // @material-ui/core components
+
+ // @material-ui/icons
+// core components
+
+
+
+
+
+var useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__["makeStyles"])(assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_5__["default"]);
+function MySkills() {
+  var classes = useStyles();
+  return __jsx("div", {
+    className: classes.section,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 5
+    }
+  }, __jsx("div", {
+    className: classes.container,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21,
+      columnNumber: 7
+    }
+  }, __jsx("div", {
+    className: classes.space50,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22,
+      columnNumber: 9
+    }
+  }), __jsx("div", {
+    id: "images",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23,
+      columnNumber: 9
+    }
+  }, __jsx("div", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24,
+      columnNumber: 11
+    }
+  }, __jsx("h2", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25,
+      columnNumber: 13
+    }
+  }, "Some of my skills")), __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27,
+      columnNumber: 11
+    }
+  }), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28,
+      columnNumber: 11
+    }
+  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 55,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 56,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 68,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 69,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 81,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 82,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 94,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 95,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 107,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 108,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 120,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 121,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 133,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 134,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 146,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 147,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 5,
+    sm: 3,
+    className: classes.marginRight,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 159,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "...",
+    className: classes.imgRaised + " " + classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 160,
+      columnNumber: 15
+    }
+  })))), __jsx("div", {
+    className: classes.space50,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 175,
+      columnNumber: 9
+    }
+  })));
+}
+
+/***/ })
+
+})
+//# sourceMappingURL=landingpage.js.1b462225dc35b6784727.hot-update.js.map

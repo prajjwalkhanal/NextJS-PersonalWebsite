@@ -16,19 +16,19 @@ import Button from "components/CustomButtons/Button.js";
 import Parallax from "components/Parallax/Parallax.js";
 // sections for this page
 import AboutMe from "pages-sections/LandingPage-Sections/AboutMe.js";
-//import MySkill from "pages-sections/LandingPage-Sections/MySkill.js";
+import MySkill from "pages-sections/LandingPage-Sections/MySkills.js";
 
 import styles from "assets/jss/nextjs-material-kit/pages/components.js";
 
 const useStyles = makeStyles(styles);
 
-export default function Components(props) {
+export default function LandingPage(props) {
   const classes = useStyles();
   const { ...rest } = props;
   return (
     <div>
       <Header
-        brand="NextJS Material Kit"
+        brand=""
         rightLinks={<HeaderLinks />}
         fixed
         color="transparent"
@@ -55,7 +55,7 @@ export default function Components(props) {
 
       <div className={classNames(classes.main, classes.mainRaised)}>
         <AboutMe/>
-        
+        <MySkill/>
       </div>
       <Footer />
     </div>
