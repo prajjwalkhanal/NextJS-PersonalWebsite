@@ -7,24 +7,114 @@ import { makeStyles } from "@material-ui/core/styles";
 // core components
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
-import Small from "components/Typography/Small.js";
-import Danger from "components/Typography/Danger.js";
-import Warning from "components/Typography/Warning.js";
-import Success from "components/Typography/Success.js";
-import Info from "components/Typography/Info.js";
-import Primary from "components/Typography/Primary.js";
-import Muted from "components/Typography/Muted.js";
-import Quote from "components/Typography/Quote.js";
 
-import image from "assets/img/faces/avatar.jpg";
+
+import atlassian from "assets/img/Skills/Atlassian.png";
+import aws from "assets/img/Skills/AWS.png";
+import docker from "assets/img/Skills/Docker.png";
+import forticlient from "assets/img/Skills/Forticlient.png";
+import azure from "assets/img/Skills/Microsoft_Azure.png";
+import mysql from "assets/img/Skills/MYSQL.png";
+import php from "assets/img/Skills/PHP.png";
+import saas from "assets/img/Skills/Saas.png";
+import vmware from "assets/img/Skills/Vmware.png";
+import windowsserver from "assets/img/Skills/WindowsServer.png";
 
 import styles from "assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js";
 
 const useStyles = makeStyles(styles);
 
-export default function MySkill() {
+export default function MySkills() {
   const classes = useStyles();
   return (
-    1
+    <div className={classes.section}>
+      <div className={classes.container}>
+        <div className={classes.space50} />
+        <div id="images">
+          <div className={classes.title}>
+            <h2>Some of my skills</h2>
+          </div>
+          <br />
+          <GridContainer>
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={atlassian}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={aws}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={azure}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={windowsserver}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+          
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={mysql}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={docker}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            
+            
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={forticlient}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={vmware}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={saas}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>            
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={php}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+            
+            </GridContainer>
+        </div>
+        <div className={classes.space50} />
+      </div>
+    </div>
   );
 }

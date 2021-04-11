@@ -23,10 +23,10 @@ export default function AboutMe() {
         <GridItem xs={12} sm={12} md={8}>
           <h2 className={classes.title}>About Prajjwal</h2>
           <h5 className={classes.description}>
-            Prajjwal Khanal aka PRAZ is a Nepalese born engineer residing in Australia since 2017. 
+            Prajjwal Khanal is a Nepalese born engineer residing in Australia since 2017. 
             He is an Infrastructure System Enginner for Rugby Australia working closely with department heads, development teams, executives and IT service desk to produce world class service.
             He has over 3 years of experience in system administration (Windows Server and Enterprise Security), cloud application(AWS, Azure and SaaS) and background in web application and database.
-        
+            <br/><br/>        
             He graduated Master's degree in Information Technology specializing in Cloud Computing from Charles Sturt University with academic achivement award in 2019.
             He has devoted his entire life in field of computer science and information technology. His current field of interent are Devops and cloud security.
           </h5>
