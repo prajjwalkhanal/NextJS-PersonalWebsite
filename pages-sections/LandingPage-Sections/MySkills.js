@@ -10,14 +10,14 @@ import GridItem from "components/Grid/GridItem.js";
 
 
 import atlassian from "assets/img/Skills/Atlassian.png";
-import aws from "assets/img/Skills/AWS.png";
-import docker from "assets/img/Skills/Docker.png";
-import forticlient from "assets/img/Skills/Forticlient.png";
+import aws from "assets/img/Skills/aws.png";
+import docker from "assets/img/Skills/docker.png";
+import forticlient from "assets/img/Skills/forticlient.png";
 import azure from "assets/img/Skills/Microsoft_Azure.png";
-import mysql from "assets/img/Skills/MYSQL.png";
-import php from "assets/img/Skills/PHP.png";
+import mysql from "assets/img/Skills/mysql.png";
+import php from "assets/img/Skills/php.png";
 import saas from "assets/img/Skills/Saas.png";
-import vmware from "assets/img/Skills/Vmware.png";
+import vmware from "assets/img/Skills/vmware.png";
 import windowsserver from "assets/img/Skills/WindowsServer.png";
 
 import styles from "assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js";
