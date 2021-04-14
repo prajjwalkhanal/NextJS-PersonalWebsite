@@ -28,12 +28,13 @@ export default function MySkills() {
   const classes = useStyles();
   return (
     <div className={classes.section}>
+      <GridContainer justify="center">
+      <div className={classes.title}>
+            <h2 className={classes.title}>Some of my skills</h2>
+      </div>
       <div className={classes.container}>
         <div className={classes.space50} />
         <div id="images">
-          <div className={classes.title}>
-            <h2>Some of my skills</h2>
-          </div>
           <br />
           <GridContainer>
             <GridItem xs={5} sm={3} className={classes.marginRight}>
@@ -115,6 +116,7 @@ export default function MySkills() {
         </div>
         <div className={classes.space50} />
       </div>
+      </GridContainer>
     </div>
   );
 }

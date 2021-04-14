@@ -115,116 +115,6 @@ module.exports = require("next/dist/next-server/lib/utils.js");
 
 /***/ }),
 
-/***/ "./assets/img/Skills/AWS.png":
-/*!***********************************!*\
-  !*** ./assets/img/Skills/AWS.png ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/AWS-d9c529a30b84ada78600c21f493cdf3d.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/Atlassian.png":
-/*!*****************************************!*\
-  !*** ./assets/img/Skills/Atlassian.png ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Atlassian-a7fc7bf6f0c2a13f0193457e3ab69ae6.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/Docker.png":
-/*!**************************************!*\
-  !*** ./assets/img/Skills/Docker.png ***!
-  \**************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Docker-0576a290be2f6287676f0e4b842b8be3.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/Forticlient.png":
-/*!*******************************************!*\
-  !*** ./assets/img/Skills/Forticlient.png ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Forticlient-c42af35410339f38bb7f28549d132ff8.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/MYSQL.png":
-/*!*************************************!*\
-  !*** ./assets/img/Skills/MYSQL.png ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/MYSQL-be9251182f1c4d05f3f836cc3f39898b.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/Microsoft_Azure.png":
-/*!***********************************************!*\
-  !*** ./assets/img/Skills/Microsoft_Azure.png ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Microsoft_Azure-7bf4f82b3ee63de4457f9f50273a9745.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/PHP.png":
-/*!***********************************!*\
-  !*** ./assets/img/Skills/PHP.png ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/PHP-1b29a538acb3efa07b2289d932b2daa9.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/Saas.png":
-/*!************************************!*\
-  !*** ./assets/img/Skills/Saas.png ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Saas-14f383a9f5902389dd54ba3f2440e46d.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/Vmware.png":
-/*!**************************************!*\
-  !*** ./assets/img/Skills/Vmware.png ***!
-  \**************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Vmware-2a563dc21a320c35f771c6d4bb3a2ea3.png";
-
-/***/ }),
-
-/***/ "./assets/img/Skills/WindowsServer.png":
-/*!*********************************************!*\
-  !*** ./assets/img/Skills/WindowsServer.png ***!
-  \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/WindowsServer-115cad20b9fbd3eb496f07dc503d1921.png";
-
-/***/ }),
-
 /***/ "./assets/img/nextjs_header.jpg":
 /*!**************************************!*\
   !*** ./assets/img/nextjs_header.jpg ***!
@@ -233,6 +123,116 @@ module.exports = "/_next/static/images/WindowsServer-115cad20b9fbd3eb496f07dc503
 /***/ (function(module, exports) {
 
 module.exports = "/_next/static/images/nextjs_header-5b5bdd5947add66de4b99db16abe8b22.jpg";
+
+/***/ }),
+
+/***/ "./assets/img/skills/Atlassian.png":
+/*!*****************************************!*\
+  !*** ./assets/img/skills/Atlassian.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/Atlassian-a7fc7bf6f0c2a13f0193457e3ab69ae6.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/Microsoft_Azure.png":
+/*!***********************************************!*\
+  !*** ./assets/img/skills/Microsoft_Azure.png ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/Microsoft_Azure-7bf4f82b3ee63de4457f9f50273a9745.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/Saas.png":
+/*!************************************!*\
+  !*** ./assets/img/skills/Saas.png ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/Saas-14f383a9f5902389dd54ba3f2440e46d.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/WindowsServer.png":
+/*!*********************************************!*\
+  !*** ./assets/img/skills/WindowsServer.png ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/WindowsServer-115cad20b9fbd3eb496f07dc503d1921.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/aws.png":
+/*!***********************************!*\
+  !*** ./assets/img/skills/aws.png ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/aws-d9c529a30b84ada78600c21f493cdf3d.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/docker.png":
+/*!**************************************!*\
+  !*** ./assets/img/skills/docker.png ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/docker-0576a290be2f6287676f0e4b842b8be3.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/forticlient.png":
+/*!*******************************************!*\
+  !*** ./assets/img/skills/forticlient.png ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/forticlient-c42af35410339f38bb7f28549d132ff8.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/mysql.png":
+/*!*************************************!*\
+  !*** ./assets/img/skills/mysql.png ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/mysql-be9251182f1c4d05f3f836cc3f39898b.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/php.png":
+/*!***********************************!*\
+  !*** ./assets/img/skills/php.png ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/php-1b29a538acb3efa07b2289d932b2daa9.png";
+
+/***/ }),
+
+/***/ "./assets/img/skills/vmware.png":
+/*!**************************************!*\
+  !*** ./assets/img/skills/vmware.png ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/vmware-2a563dc21a320c35f771c6d4bb3a2ea3.png";
 
 /***/ }),
 
@@ -772,6 +772,106 @@ const buttonStyle = {
   }
 };
 /* harmony default export */ __webpack_exports__["default"] = (buttonStyle);
+
+/***/ }),
+
+/***/ "./assets/jss/nextjs-material-kit/components/customInputStyle.js":
+/*!***********************************************************************!*\
+  !*** ./assets/jss/nextjs-material-kit/components/customInputStyle.js ***!
+  \***********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! assets/jss/nextjs-material-kit.js */ "./assets/jss/nextjs-material-kit.js");
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+
+const customInputStyle = {
+  disabled: {
+    "&:before": {
+      borderColor: "transparent !important"
+    }
+  },
+  underline: {
+    "&:hover:not($disabled):before,&:before": {
+      borderColor: "#D2D2D2 !important",
+      borderWidth: "1px !important"
+    },
+    "&:after": {
+      borderColor: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["primaryColor"]
+    }
+  },
+  underlineError: {
+    "&:after": {
+      borderColor: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["dangerColor"]
+    }
+  },
+  underlineSuccess: {
+    "&:after": {
+      borderColor: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["successColor"]
+    }
+  },
+  whiteUnderline: {
+    "&:hover:not($disabled):before,&:before": {
+      borderColor: "#FFFFFF"
+    },
+    "&:after": {
+      borderColor: "#FFFFFF"
+    }
+  },
+  labelRoot: _objectSpread({}, assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["defaultFont"], {
+    color: "#AAAAAA !important",
+    fontWeight: "400",
+    fontSize: "14px",
+    lineHeight: "1.42857",
+    top: "10px",
+    letterSpacing: "unset",
+    "& + $underline": {
+      marginTop: "0px"
+    }
+  }),
+  labelRootError: {
+    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["dangerColor"] + " !important"
+  },
+  labelRootSuccess: {
+    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["successColor"] + " !important"
+  },
+  formControl: {
+    margin: "0 0 17px 0",
+    paddingTop: "27px",
+    position: "relative",
+    "& svg,& .fab,& .far,& .fal,& .fas,& .material-icons": {
+      color: "#495057"
+    }
+  },
+  input: {
+    color: "#495057",
+    height: "unset",
+    "&,&::placeholder": {
+      fontSize: "14px",
+      fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+      fontWeight: "400",
+      lineHeight: "1.42857",
+      opacity: "1"
+    },
+    "&::placeholder": {
+      color: "#AAAAAA"
+    }
+  },
+  whiteInput: {
+    "&,&::placeholder": {
+      color: "#FFFFFF",
+      opacity: "1"
+    }
+  }
+};
+/* harmony default export */ __webpack_exports__["default"] = (customInputStyle);
 
 /***/ }),
 
@@ -1606,6 +1706,135 @@ RegularButton.propTypes = {
 
 /***/ }),
 
+/***/ "./components/CustomInput/CustomInput.js":
+/*!***********************************************!*\
+  !*** ./components/CustomInput/CustomInput.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return CustomInput; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
+/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! classnames */ "classnames");
+/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/FormControl */ "@material-ui/core/FormControl");
+/* harmony import */ var _material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/InputLabel */ "@material-ui/core/InputLabel");
+/* harmony import */ var _material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Input */ "@material-ui/core/Input");
+/* harmony import */ var _material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var assets_jss_nextjs_material_kit_components_customInputStyle_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/components/customInputStyle.js */ "./assets/jss/nextjs-material-kit/components/customInputStyle.js");
+var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/components/CustomInput/CustomInput.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+ // nodejs library to set properties for components
+
+ // nodejs library that concatenates classes
+
+ // @material-ui/core components
+
+
+
+
+
+
+const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__["makeStyles"])(assets_jss_nextjs_material_kit_components_customInputStyle_js__WEBPACK_IMPORTED_MODULE_7__["default"]);
+function CustomInput(props) {
+  const classes = useStyles();
+  const {
+    formControlProps,
+    labelText,
+    id,
+    labelProps,
+    inputProps,
+    error,
+    white,
+    inputRootCustomClasses,
+    success
+  } = props;
+  const labelClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
+    [" " + classes.labelRootError]: error,
+    [" " + classes.labelRootSuccess]: success && !error
+  });
+  const underlineClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
+    [classes.underlineError]: error,
+    [classes.underlineSuccess]: success && !error,
+    [classes.underline]: true,
+    [classes.whiteUnderline]: white
+  });
+  const marginTop = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
+    [inputRootCustomClasses]: inputRootCustomClasses !== undefined
+  });
+  const inputClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
+    [classes.input]: true,
+    [classes.whiteInput]: white
+  });
+  var formControlClasses;
+
+  if (formControlProps !== undefined) {
+    formControlClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()(formControlProps.className, classes.formControl);
+  } else {
+    formControlClasses = classes.formControl;
+  }
+
+  return __jsx(_material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4___default.a, _extends({}, formControlProps, {
+    className: formControlClasses,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 57,
+      columnNumber: 5
+    }
+  }), labelText !== undefined ? __jsx(_material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5___default.a, _extends({
+    className: classes.labelRoot + " " + labelClasses,
+    htmlFor: id
+  }, labelProps, {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 59,
+      columnNumber: 9
+    }
+  }), labelText) : null, __jsx(_material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6___default.a, _extends({
+    classes: {
+      input: inputClasses,
+      root: marginTop,
+      disabled: classes.disabled,
+      underline: underlineClasses
+    },
+    id: id
+  }, inputProps, {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 67,
+      columnNumber: 7
+    }
+  })));
+}
+CustomInput.propTypes = {
+  labelText: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.node,
+  labelProps: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
+  id: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+  inputProps: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
+  formControlProps: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
+  inputRootCustomClasses: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+  error: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
+  success: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
+  white: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool
+};
+
+/***/ }),
+
 /***/ "./components/Footer/Footer.js":
 /*!*************************************!*\
   !*** ./components/Footer/Footer.js ***!
@@ -1698,7 +1927,7 @@ function Footer(props) {
       lineNumber: 36,
       columnNumber: 11
     }
-  }), " ", "for digial connection.")));
+  }), " ", "for digital connection.")));
 }
 Footer.propTypes = {
   whiteFont: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool
@@ -4536,7 +4765,228 @@ function AboutMe() {
       lineNumber: 29,
       columnNumber: 18
     }
-  }), "He graduated Master's degree in Information Technology specializing in Cloud Computing from Charles Sturt University with academic achivement award in 2019. He has devoted his entire life in field of computer science and information technology. His current field of interent are Devops and cloud security."))));
+  }), "He graduated Master's degree in Information Technology specializing in Cloud Computing from Charles Sturt University with academic achivement award in 2019. He has devoted his entire life in field of computer science and information technology. His current field of interest are Devops and cloud security."))));
+}
+
+/***/ }),
+
+/***/ "./pages-sections/LandingPage-Sections/Contact.js":
+/*!********************************************************!*\
+  !*** ./pages-sections/LandingPage-Sections/Contact.js ***!
+  \********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Contact; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
+/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
+/* harmony import */ var components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! components/CustomInput/CustomInput.js */ "./components/CustomInput/CustomInput.js");
+/* harmony import */ var components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! components/CustomButtons/Button.js */ "./components/CustomButtons/Button.js");
+/* harmony import */ var assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js */ "./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js");
+var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/LandingPage-Sections/Contact.js";
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+ // @material-ui/core components
+
+ // core components
+
+
+
+
+
+
+const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__["makeStyles"])(assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_6__["default"]);
+function Contact() {
+  const classes = useStyles();
+  return __jsx("div", {
+    className: classes.section,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 5
+    }
+  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    justify: "center",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 7
+    }
+  }, __jsx("div", {
+    id: "inputs",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21,
+      columnNumber: 9
+    }
+  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 12,
+    lg: 12,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22,
+      columnNumber: 11
+    }
+  }, __jsx("h2", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23,
+      columnNumber: 11
+    }
+  }, "Say Hello"), __jsx("h5", {
+    className: classes.description,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24,
+      columnNumber: 11
+    }
+  }, "Feel free to reach out to me at anytime.", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26,
+      columnNumber: 13
+    }
+  }), "I am available for consulting, contract or other opportunities on short to medium range notice.")), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    justify: "center",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30,
+      columnNumber: 11
+    }
+  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 4,
+    md: 4,
+    lg: 4,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31,
+      columnNumber: 13
+    }
+  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    labelText: "Name",
+    id: "Name",
+    formControlProps: {
+      fullWidth: true
+    },
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 4,
+    md: 4,
+    lg: 4,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40,
+      columnNumber: 13
+    }
+  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    labelText: "Email",
+    id: "Email",
+    formControlProps: {
+      fullWidth: true
+    },
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41,
+      columnNumber: 15
+    }
+  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 4,
+    md: 4,
+    lg: 4,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 49,
+      columnNumber: 15
+    }
+  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    labelText: "Phone",
+    id: "Phone",
+    formControlProps: {
+      fullWidth: true
+    },
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 50,
+      columnNumber: 15
+    }
+  }))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    justify: "center",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 59,
+      columnNumber: 13
+    }
+  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 12,
+    lg: 12,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 60,
+      columnNumber: 13
+    }
+  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    labelText: "Message",
+    id: "Message",
+    formControlProps: {
+      fullWidth: true
+    },
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61,
+      columnNumber: 15
+    }
+  }))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    justify: "center",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 70,
+      columnNumber: 13
+    }
+  }, __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    type: "button",
+    color: "success",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 71,
+      columnNumber: 13
+    }
+  }, "Submit")))));
 }
 
 /***/ }),
@@ -4557,26 +5007,26 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
 /* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
-/* harmony import */ var assets_img_Skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! assets/img/Skills/Atlassian.png */ "./assets/img/Skills/Atlassian.png");
-/* harmony import */ var assets_img_Skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! assets/img/Skills/AWS.png */ "./assets/img/Skills/AWS.png");
-/* harmony import */ var assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var assets_img_Skills_Docker_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! assets/img/Skills/Docker.png */ "./assets/img/Skills/Docker.png");
-/* harmony import */ var assets_img_Skills_Docker_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_Docker_png__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var assets_img_Skills_Forticlient_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! assets/img/Skills/Forticlient.png */ "./assets/img/Skills/Forticlient.png");
-/* harmony import */ var assets_img_Skills_Forticlient_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_Forticlient_png__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var assets_img_Skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! assets/img/Skills/Microsoft_Azure.png */ "./assets/img/Skills/Microsoft_Azure.png");
-/* harmony import */ var assets_img_Skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var assets_img_Skills_MYSQL_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! assets/img/Skills/MYSQL.png */ "./assets/img/Skills/MYSQL.png");
-/* harmony import */ var assets_img_Skills_MYSQL_png__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_MYSQL_png__WEBPACK_IMPORTED_MODULE_9__);
-/* harmony import */ var assets_img_Skills_PHP_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! assets/img/Skills/PHP.png */ "./assets/img/Skills/PHP.png");
-/* harmony import */ var assets_img_Skills_PHP_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_PHP_png__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var assets_img_Skills_Saas_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! assets/img/Skills/Saas.png */ "./assets/img/Skills/Saas.png");
-/* harmony import */ var assets_img_Skills_Saas_png__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_Saas_png__WEBPACK_IMPORTED_MODULE_11__);
-/* harmony import */ var assets_img_Skills_Vmware_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! assets/img/Skills/Vmware.png */ "./assets/img/Skills/Vmware.png");
-/* harmony import */ var assets_img_Skills_Vmware_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_Vmware_png__WEBPACK_IMPORTED_MODULE_12__);
-/* harmony import */ var assets_img_Skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! assets/img/Skills/WindowsServer.png */ "./assets/img/Skills/WindowsServer.png");
-/* harmony import */ var assets_img_Skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(assets_img_Skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13__);
+/* harmony import */ var assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! assets/img/skills/Atlassian.png */ "./assets/img/skills/Atlassian.png");
+/* harmony import */ var assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! assets/img/skills/aws.png */ "./assets/img/skills/aws.png");
+/* harmony import */ var assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! assets/img/skills/docker.png */ "./assets/img/skills/docker.png");
+/* harmony import */ var assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! assets/img/skills/forticlient.png */ "./assets/img/skills/forticlient.png");
+/* harmony import */ var assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! assets/img/skills/Microsoft_Azure.png */ "./assets/img/skills/Microsoft_Azure.png");
+/* harmony import */ var assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! assets/img/skills/mysql.png */ "./assets/img/skills/mysql.png");
+/* harmony import */ var assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! assets/img/skills/php.png */ "./assets/img/skills/php.png");
+/* harmony import */ var assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! assets/img/skills/Saas.png */ "./assets/img/skills/Saas.png");
+/* harmony import */ var assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11__);
+/* harmony import */ var assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! assets/img/skills/vmware.png */ "./assets/img/skills/vmware.png");
+/* harmony import */ var assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12__);
+/* harmony import */ var assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! assets/img/skills/WindowsServer.png */ "./assets/img/skills/WindowsServer.png");
+/* harmony import */ var assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13__);
 /* harmony import */ var assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js */ "./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js");
 var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/LandingPage-Sections/MySkills.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -4609,8 +5059,8 @@ function MySkills() {
       lineNumber: 30,
       columnNumber: 5
     }
-  }, __jsx("div", {
-    className: classes.container,
+  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    justify: "center",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4618,11 +5068,35 @@ function MySkills() {
       columnNumber: 7
     }
   }, __jsx("div", {
-    className: classes.space50,
+    className: classes.title,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32,
+      columnNumber: 7
+    }
+  }, __jsx("h2", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 33,
+      columnNumber: 13
+    }
+  }, "Some of my skills")), __jsx("div", {
+    className: classes.container,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35,
+      columnNumber: 7
+    }
+  }, __jsx("div", {
+    className: classes.space50,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36,
       columnNumber: 9
     }
   }), __jsx("div", {
@@ -4630,36 +5104,21 @@ function MySkills() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33,
+      lineNumber: 37,
       columnNumber: 9
     }
-  }, __jsx("div", {
-    className: classes.title,
+  }, __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34,
-      columnNumber: 11
-    }
-  }, __jsx("h2", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 13
-    }
-  }, "Some of my skills")), __jsx("br", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 37,
+      lineNumber: 38,
       columnNumber: 11
     }
   }), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38,
+      lineNumber: 39,
       columnNumber: 11
     }
   }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
@@ -4669,177 +5128,177 @@ function MySkills() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39,
+      lineNumber: 40,
       columnNumber: 13
     }
   }, __jsx("img", {
-    src: assets_img_Skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    src: assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4___default.a,
     alt: "...",
     className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40,
+      lineNumber: 41,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 46,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_AWS_png__WEBPACK_IMPORTED_MODULE_5___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 47,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 48,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 53,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 54,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 55,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 60,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 61,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 62,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 68,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_MYSQL_png__WEBPACK_IMPORTED_MODULE_9___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 69,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 70,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 75,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_Docker_png__WEBPACK_IMPORTED_MODULE_6___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 76,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 77,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 84,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_Forticlient_png__WEBPACK_IMPORTED_MODULE_7___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 85,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 86,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 91,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_Vmware_png__WEBPACK_IMPORTED_MODULE_12___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 92,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 93,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 5,
     sm: 3,
     className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 99,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_Skills_Saas_png__WEBPACK_IMPORTED_MODULE_11___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 100,
+      columnNumber: 13
+    }
+  }, __jsx("img", {
+    src: assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11___default.a,
+    alt: "...",
+    className: classes.imgRounded + " " + classes.imgFluid,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 101,
       columnNumber: 15
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
@@ -4849,17 +5308,17 @@ function MySkills() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106,
+      lineNumber: 107,
       columnNumber: 13
     }
   }, __jsx("img", {
-    src: assets_img_Skills_PHP_png__WEBPACK_IMPORTED_MODULE_10___default.a,
+    src: assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10___default.a,
     alt: "...",
     className: classes.imgRounded + " " + classes.imgFluid,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 107,
+      lineNumber: 108,
       columnNumber: 15
     }
   })))), __jsx("div", {
@@ -4867,10 +5326,10 @@ function MySkills() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116,
+      lineNumber: 117,
       columnNumber: 9
     }
-  })));
+  }))));
 }
 
 /***/ }),
@@ -4902,7 +5361,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! components/Parallax/Parallax.js */ "./components/Parallax/Parallax.js");
 /* harmony import */ var pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/AboutMe.js */ "./pages-sections/LandingPage-Sections/AboutMe.js");
 /* harmony import */ var pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/MySkills.js */ "./pages-sections/LandingPage-Sections/MySkills.js");
-/* harmony import */ var assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/components.js */ "./assets/jss/nextjs-material-kit/pages/components.js");
+/* harmony import */ var pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/Contact.js */ "./pages-sections/LandingPage-Sections/Contact.js");
+/* harmony import */ var assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/components.js */ "./assets/jss/nextjs-material-kit/pages/components.js");
 var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages/landingpage.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4928,7 +5388,8 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 
 
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__["makeStyles"])(assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_13__["default"]);
+
+const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__["makeStyles"])(assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_14__["default"]);
 function LandingPage(props) {
   const classes = useStyles();
   const rest = Object.assign({}, props);
@@ -4936,7 +5397,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29,
+      lineNumber: 30,
       columnNumber: 5
     }
   }, __jsx(components_Header_Header_js__WEBPACK_IMPORTED_MODULE_4__["default"], _extends({
@@ -4945,7 +5406,7 @@ function LandingPage(props) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 32,
+        lineNumber: 33,
         columnNumber: 21
       }
     }),
@@ -4959,7 +5420,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30,
+      lineNumber: 31,
       columnNumber: 7
     }
   })), __jsx(components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_10__["default"], {
@@ -4967,7 +5428,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41,
+      lineNumber: 42,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -4975,21 +5436,21 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42,
+      lineNumber: 43,
       columnNumber: 9
     }
   }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_7__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43,
+      lineNumber: 44,
       columnNumber: 11
     }
   }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_8__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44,
+      lineNumber: 45,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -4997,7 +5458,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45,
+      lineNumber: 46,
       columnNumber: 15
     }
   }, __jsx("h1", {
@@ -5005,7 +5466,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46,
+      lineNumber: 47,
       columnNumber: 17
     }
   }, "Prajjwal Khanal"), __jsx("h3", {
@@ -5013,7 +5474,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47,
+      lineNumber: 48,
       columnNumber: 17
     }
   }, "Cloud, AWS, DevOps and many more...")))))), __jsx("div", {
@@ -5021,28 +5482,35 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56,
+      lineNumber: 57,
       columnNumber: 7
     }
   }, __jsx(pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_11__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57,
+      lineNumber: 58,
       columnNumber: 9
     }
   }), __jsx(pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_12__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 59,
+      columnNumber: 9
+    }
+  }), __jsx(pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_13__["default"], {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 60,
       columnNumber: 9
     }
   })), __jsx(components_Footer_Footer_js__WEBPACK_IMPORTED_MODULE_6__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60,
+      lineNumber: 62,
       columnNumber: 7
     }
   }));
@@ -5106,6 +5574,17 @@ module.exports = require("@material-ui/core/Drawer");
 
 /***/ }),
 
+/***/ "@material-ui/core/FormControl":
+/*!************************************************!*\
+  !*** external "@material-ui/core/FormControl" ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("@material-ui/core/FormControl");
+
+/***/ }),
+
 /***/ "@material-ui/core/Grid":
 /*!*****************************************!*\
   !*** external "@material-ui/core/Grid" ***!
@@ -5147,6 +5626,28 @@ module.exports = require("@material-ui/core/Icon");
 /***/ (function(module, exports) {
 
 module.exports = require("@material-ui/core/IconButton");
+
+/***/ }),
+
+/***/ "@material-ui/core/Input":
+/*!******************************************!*\
+  !*** external "@material-ui/core/Input" ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("@material-ui/core/Input");
+
+/***/ }),
+
+/***/ "@material-ui/core/InputLabel":
+/*!***********************************************!*\
+  !*** external "@material-ui/core/InputLabel" ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("@material-ui/core/InputLabel");
 
 /***/ }),
 
