@@ -28,7 +28,7 @@ export default function AboutMe() {
             He has over 3 years of experience in system administration (Windows Server and Enterprise Security), cloud application(AWS, Azure and SaaS) and background in web application and database.
             <br/><br/>        
             He graduated Master's degree in Information Technology specializing in Cloud Computing from Charles Sturt University with academic achivement award in 2019.
-            He has devoted his entire life in field of computer science and information technology. His current field of interent are Devops and cloud security.
+            He has devoted his entire life in field of computer science and information technology. His current field of interest are Devops and cloud security.
           </h5>
         </GridItem>
       </GridContainer>

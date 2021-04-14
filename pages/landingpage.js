@@ -17,6 +17,7 @@ import Parallax from "components/Parallax/Parallax.js";
 // sections for this page
 import AboutMe from "pages-sections/LandingPage-Sections/AboutMe.js";
 import MySkill from "pages-sections/LandingPage-Sections/MySkills.js";
+import Contact from "pages-sections/LandingPage-Sections/Contact.js";
 
 import styles from "assets/jss/nextjs-material-kit/pages/components.js";
 
@@ -56,6 +57,7 @@ export default function LandingPage(props) {
       <div className={classNames(classes.main, classes.mainRaised)}>
         <AboutMe/>
         <MySkill/>
+        <Contact/>
       </div>
       <Footer />
     </div>
