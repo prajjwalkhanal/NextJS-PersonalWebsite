@@ -752,7 +752,7 @@ class MyApp extends next_app__WEBPACK_IMPORTED_MODULE_2___default.a {
         lineNumber: 81,
         columnNumber: 11
       }
-    }, "NextJS Material Kit by Creative Tim")), __jsx(Component, _extends({}, pageProps, {
+    }, "Praz:DevOps And Cloud Engineer")), __jsx(Component, _extends({}, pageProps, {
       __self: this,
       __source: {
         fileName: _jsxFileName,
