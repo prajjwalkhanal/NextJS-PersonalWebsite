@@ -21646,7 +21646,7 @@ var MyApp = /*#__PURE__*/function (_App) {
           lineNumber: 81,
           columnNumber: 11
         }
-      }, "NextJS Material Kit by Creative Tim")), __jsx(Component, Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_1__["default"])({}, pageProps, {
+      }, "Praz:DevOps And Cloud Engineer")), __jsx(Component, Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_1__["default"])({}, pageProps, {
         __self: this,
         __source: {
           fileName: _jsxFileName,
