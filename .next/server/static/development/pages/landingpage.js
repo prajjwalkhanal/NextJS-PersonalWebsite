@@ -122,7 +122,7 @@ module.exports = require("next/dist/next-server/lib/utils.js");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/nextjs_header-5b5bdd5947add66de4b99db16abe8b22.jpg";
+module.exports = "/_next/static/images/nextjs_header-06352dc62bfac7ad2ffe08100bfe8018.jpg";
 
 /***/ }),
 
@@ -2189,8 +2189,8 @@ function Header(props) {
   });
 
   const brandComponent = __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/components",
-    as: "/components",
+    href: "/landingpage",
+    as: "/landingpage",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -2474,7 +2474,7 @@ function HeaderLinks(props) {
       columnNumber: 9
     }
   }, __jsx("a", {
-    href: "",
+    href: "https://www.linkedin.com/in/prajjwalkhanal/",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4789,11 +4789,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! components/CustomInput/CustomInput.js */ "./components/CustomInput/CustomInput.js");
 /* harmony import */ var components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! components/CustomButtons/Button.js */ "./components/CustomButtons/Button.js");
 /* harmony import */ var assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js */ "./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js");
+/* harmony import */ var _material_ui_core__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core */ "@material-ui/core");
+/* harmony import */ var _material_ui_core__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core__WEBPACK_IMPORTED_MODULE_7__);
 var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/LandingPage-Sections/Contact.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
  // @material-ui/core components
 
  // core components
+
 
 
 
@@ -4820,18 +4823,13 @@ function Contact() {
       columnNumber: 7
     }
   }, __jsx("div", {
-    id: "inputs",
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21,
-      columnNumber: 9
+      columnNumber: 11
     }
   }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 12,
-    sm: 12,
-    md: 12,
-    lg: 12,
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4846,39 +4844,61 @@ function Contact() {
       lineNumber: 23,
       columnNumber: 11
     }
-  }, "Say Hello"), __jsx("h5", {
-    className: classes.description,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 11
-    }
-  }, "Feel free to reach out to me at anytime.", __jsx("br", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26,
-      columnNumber: 13
-    }
-  }), "I am available for consulting, contract or other opportunities on short to medium range notice.")), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  }, "Get in touch")))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
     justify: "center",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27,
+      columnNumber: 7
+    }
+  }, __jsx("div", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28,
+      columnNumber: 9
+    }
+  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  }, __jsx("h5", {
+    className: classes.description,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30,
       columnNumber: 11
     }
-  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 12,
-    sm: 4,
-    md: 4,
-    lg: 4,
+  }, "Feel free to reach out to me for consulting, contract or other opportunities", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31,
-      columnNumber: 13
+      columnNumber: 89
+    }
+  }))))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    justify: "center",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36,
+      columnNumber: 7
+    }
+  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 4,
+    md: 4,
+    lg: 3,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37,
+      columnNumber: 9
     }
   }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
     labelText: "Name",
@@ -4889,19 +4909,19 @@ function Contact() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 15
+      lineNumber: 38,
+      columnNumber: 11
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 12,
     sm: 4,
     md: 4,
-    lg: 4,
+    lg: 3,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40,
-      columnNumber: 13
+      lineNumber: 46,
+      columnNumber: 9
     }
   }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
     labelText: "Email",
@@ -4912,19 +4932,19 @@ function Contact() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41,
-      columnNumber: 15
+      lineNumber: 47,
+      columnNumber: 11
     }
   })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 12,
     sm: 4,
     md: 4,
-    lg: 4,
+    lg: 3,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49,
-      columnNumber: 15
+      lineNumber: 55,
+      columnNumber: 9
     }
   }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
     labelText: "Phone",
@@ -4935,27 +4955,27 @@ function Contact() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50,
-      columnNumber: 15
+      lineNumber: 56,
+      columnNumber: 11
     }
   }))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
     justify: "center",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59,
-      columnNumber: 13
+      lineNumber: 65,
+      columnNumber: 7
     }
   }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 12,
     sm: 12,
-    md: 12,
-    lg: 12,
+    md: 8,
+    lg: 8,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60,
-      columnNumber: 13
+      lineNumber: 66,
+      columnNumber: 7
     }
   }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
     labelText: "Message",
@@ -4966,7 +4986,7 @@ function Contact() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61,
+      lineNumber: 67,
       columnNumber: 15
     }
   }))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -4974,8 +4994,8 @@ function Contact() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70,
-      columnNumber: 13
+      lineNumber: 77,
+      columnNumber: 7
     }
   }, __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
     type: "button",
@@ -4983,10 +5003,89 @@ function Contact() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71,
-      columnNumber: 13
+      lineNumber: 78,
+      columnNumber: 10
     }
-  }, "Submit")))));
+  }, "Submit")), __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 80,
+      columnNumber: 7
+    }
+  }), __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 80,
+      columnNumber: 12
+    }
+  }), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    justify: "center",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 81,
+      columnNumber: 7
+    }
+  }, __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    href: "https://twitter.com/khanal_prajjwal",
+    justIcon: true,
+    link: true,
+    className: classes.margin5,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 82,
+      columnNumber: 9
+    }
+  }, __jsx("i", {
+    className: "fab fa-twitter",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 83,
+      columnNumber: 11
+    }
+  })), __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    href: "https://www.instagram.com/tech_wooer",
+    justIcon: true,
+    link: true,
+    className: classes.margin5,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 85,
+      columnNumber: 9
+    }
+  }, __jsx("i", {
+    className: "fab fa-instagram",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 86,
+      columnNumber: 11
+    }
+  })), __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    href: "https://www.linkedin.com/in/prajjwalkhanal/",
+    justIcon: true,
+    link: true,
+    className: classes.margin5,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 88,
+      columnNumber: 9
+    }
+  }, __jsx("i", {
+    className: "fab fa-linkedin",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 89,
+      columnNumber: 11
+    }
+  }))));
 }
 
 /***/ }),
@@ -5348,21 +5447,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! classnames */ "classnames");
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var components_Header_Header_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! components/Header/Header.js */ "./components/Header/Header.js");
-/* harmony import */ var components_Header_HeaderLinks_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! components/Header/HeaderLinks.js */ "./components/Header/HeaderLinks.js");
-/* harmony import */ var components_Footer_Footer_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! components/Footer/Footer.js */ "./components/Footer/Footer.js");
-/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
-/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
-/* harmony import */ var components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! components/CustomButtons/Button.js */ "./components/CustomButtons/Button.js");
-/* harmony import */ var components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! components/Parallax/Parallax.js */ "./components/Parallax/Parallax.js");
-/* harmony import */ var pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/AboutMe.js */ "./pages-sections/LandingPage-Sections/AboutMe.js");
-/* harmony import */ var pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/MySkills.js */ "./pages-sections/LandingPage-Sections/MySkills.js");
-/* harmony import */ var pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/Contact.js */ "./pages-sections/LandingPage-Sections/Contact.js");
-/* harmony import */ var assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/components.js */ "./assets/jss/nextjs-material-kit/pages/components.js");
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var components_Header_Header_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! components/Header/Header.js */ "./components/Header/Header.js");
+/* harmony import */ var components_Header_HeaderLinks_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! components/Header/HeaderLinks.js */ "./components/Header/HeaderLinks.js");
+/* harmony import */ var components_Footer_Footer_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! components/Footer/Footer.js */ "./components/Footer/Footer.js");
+/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
+/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
+/* harmony import */ var components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! components/Parallax/Parallax.js */ "./components/Parallax/Parallax.js");
+/* harmony import */ var pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/AboutMe.js */ "./pages-sections/LandingPage-Sections/AboutMe.js");
+/* harmony import */ var pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/MySkills.js */ "./pages-sections/LandingPage-Sections/MySkills.js");
+/* harmony import */ var pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/Contact.js */ "./pages-sections/LandingPage-Sections/Contact.js");
+/* harmony import */ var assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/components.js */ "./assets/jss/nextjs-material-kit/pages/components.js");
 var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages/landingpage.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5370,13 +5466,10 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
  // nodejs library that concatenates classes
 
- // react components for routing our app without refresh
-
  // @material-ui/core components
 
  // @material-ui/icons
 // core components
-
 
 
 
@@ -5389,7 +5482,7 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 
 
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__["makeStyles"])(assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_14__["default"]);
+const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_2__["makeStyles"])(assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_12__["default"]);
 function LandingPage(props) {
   const classes = useStyles();
   const rest = Object.assign({}, props);
@@ -5397,16 +5490,16 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30,
+      lineNumber: 27,
       columnNumber: 5
     }
-  }, __jsx(components_Header_Header_js__WEBPACK_IMPORTED_MODULE_4__["default"], _extends({
-    brand: "",
-    rightLinks: __jsx(components_Header_HeaderLinks_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, __jsx(components_Header_Header_js__WEBPACK_IMPORTED_MODULE_3__["default"], _extends({
+    brand: "PRAZ",
+    rightLinks: __jsx(components_Header_HeaderLinks_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 33,
+        lineNumber: 30,
         columnNumber: 21
       }
     }),
@@ -5420,15 +5513,15 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31,
+      lineNumber: 28,
       columnNumber: 7
     }
-  })), __jsx(components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_10__["default"], {
+  })), __jsx(components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_8__["default"], {
     image: __webpack_require__(/*! assets/img/nextjs_header.jpg */ "./assets/img/nextjs_header.jpg"),
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42,
+      lineNumber: 39,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -5436,21 +5529,21 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43,
+      lineNumber: 40,
       columnNumber: 9
     }
-  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_7__["default"], {
+  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_6__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44,
+      lineNumber: 41,
       columnNumber: 11
     }
-  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_8__["default"], {
+  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_7__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45,
+      lineNumber: 42,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -5458,7 +5551,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46,
+      lineNumber: 43,
       columnNumber: 15
     }
   }, __jsx("h1", {
@@ -5466,7 +5559,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47,
+      lineNumber: 44,
       columnNumber: 17
     }
   }, "Prajjwal Khanal"), __jsx("h3", {
@@ -5474,7 +5567,7 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48,
+      lineNumber: 45,
       columnNumber: 17
     }
   }, "Cloud, AWS, DevOps and many more...")))))), __jsx("div", {
@@ -5482,35 +5575,35 @@ function LandingPage(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57,
+      lineNumber: 54,
       columnNumber: 7
     }
-  }, __jsx(pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_11__["default"], {
+  }, __jsx(pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_9__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 55,
       columnNumber: 9
     }
-  }), __jsx(pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_12__["default"], {
+  }), __jsx(pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_10__["default"], {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 56,
+      columnNumber: 9
+    }
+  }), __jsx(pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_11__["default"], {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 57,
+      columnNumber: 9
+    }
+  })), __jsx(components_Footer_Footer_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 59,
-      columnNumber: 9
-    }
-  }), __jsx(pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_13__["default"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 60,
-      columnNumber: 9
-    }
-  })), __jsx(components_Footer_Footer_js__WEBPACK_IMPORTED_MODULE_6__["default"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 62,
       columnNumber: 7
     }
   }));

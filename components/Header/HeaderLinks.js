@@ -51,7 +51,7 @@ export default function HeaderLinks(props) {
           placement={"top"}
           classes={{ tooltip: classes.tooltip }}
         >
-          <a href="">
+          <a href="https://www.linkedin.com/in/prajjwalkhanal/">
             <Button
             color="transparent"
             href="https://www.linkedin.com/in/prajjwalkhanal/"
