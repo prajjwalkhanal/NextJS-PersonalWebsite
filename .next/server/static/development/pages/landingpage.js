@@ -122,7 +122,7 @@ module.exports = require("next/dist/next-server/lib/utils.js");
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/nextjs_header-5b5bdd5947add66de4b99db16abe8b22.jpg";
+module.exports = "/_next/static/images/nextjs_header-06352dc62bfac7ad2ffe08100bfe8018.jpg";
 
 /***/ }),
 
