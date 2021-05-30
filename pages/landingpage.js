@@ -43,7 +43,7 @@ export default function LandingPage(props) {
               <div className={classes.brand}>
                 <h1 className={classes.title}>Prajjwal Khanal</h1>
                 <h3 className={classes.subtitle}>
-                  Cloud, AWS, DevOps and many more...
+                  AWS Certified SysOps Admin, Cloud Engineer, DevOps and many more...
                 </h3>
               </div>
             </GridItem>

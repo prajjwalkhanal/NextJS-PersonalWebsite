@@ -34,7 +34,7 @@ export default function HeaderLinks(props) {
           </a>
       </ListItem>
       <ListItem className={classes.listItem}>
-        <a href="">
+        <a href="/resume">
           <Button
           color="transparent"
           target="_blank"
