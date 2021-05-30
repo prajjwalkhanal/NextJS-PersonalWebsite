@@ -126,116 +126,6 @@ module.exports = "/_next/static/images/nextjs_header-06352dc62bfac7ad2ffe08100bf
 
 /***/ }),
 
-/***/ "./assets/img/skills/Atlassian.png":
-/*!*****************************************!*\
-  !*** ./assets/img/skills/Atlassian.png ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Atlassian-a7fc7bf6f0c2a13f0193457e3ab69ae6.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/Microsoft_Azure.png":
-/*!***********************************************!*\
-  !*** ./assets/img/skills/Microsoft_Azure.png ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Microsoft_Azure-7bf4f82b3ee63de4457f9f50273a9745.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/Saas.png":
-/*!************************************!*\
-  !*** ./assets/img/skills/Saas.png ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/Saas-14f383a9f5902389dd54ba3f2440e46d.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/WindowsServer.png":
-/*!*********************************************!*\
-  !*** ./assets/img/skills/WindowsServer.png ***!
-  \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/WindowsServer-115cad20b9fbd3eb496f07dc503d1921.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/aws.png":
-/*!***********************************!*\
-  !*** ./assets/img/skills/aws.png ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/aws-d9c529a30b84ada78600c21f493cdf3d.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/docker.png":
-/*!**************************************!*\
-  !*** ./assets/img/skills/docker.png ***!
-  \**************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/docker-0576a290be2f6287676f0e4b842b8be3.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/forticlient.png":
-/*!*******************************************!*\
-  !*** ./assets/img/skills/forticlient.png ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/forticlient-c42af35410339f38bb7f28549d132ff8.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/mysql.png":
-/*!*************************************!*\
-  !*** ./assets/img/skills/mysql.png ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/mysql-be9251182f1c4d05f3f836cc3f39898b.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/php.png":
-/*!***********************************!*\
-  !*** ./assets/img/skills/php.png ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/php-1b29a538acb3efa07b2289d932b2daa9.png";
-
-/***/ }),
-
-/***/ "./assets/img/skills/vmware.png":
-/*!**************************************!*\
-  !*** ./assets/img/skills/vmware.png ***!
-  \**************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/vmware-2a563dc21a320c35f771c6d4bb3a2ea3.png";
-
-/***/ }),
-
 /***/ "./assets/jss/nextjs-material-kit.js":
 /*!*******************************************!*\
   !*** ./assets/jss/nextjs-material-kit.js ***!
@@ -775,106 +665,6 @@ const buttonStyle = {
 
 /***/ }),
 
-/***/ "./assets/jss/nextjs-material-kit/components/customInputStyle.js":
-/*!***********************************************************************!*\
-  !*** ./assets/jss/nextjs-material-kit/components/customInputStyle.js ***!
-  \***********************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! assets/jss/nextjs-material-kit.js */ "./assets/jss/nextjs-material-kit.js");
-function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) { symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); } keys.push.apply(keys, symbols); } return keys; }
-
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
-
-
-const customInputStyle = {
-  disabled: {
-    "&:before": {
-      borderColor: "transparent !important"
-    }
-  },
-  underline: {
-    "&:hover:not($disabled):before,&:before": {
-      borderColor: "#D2D2D2 !important",
-      borderWidth: "1px !important"
-    },
-    "&:after": {
-      borderColor: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["primaryColor"]
-    }
-  },
-  underlineError: {
-    "&:after": {
-      borderColor: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["dangerColor"]
-    }
-  },
-  underlineSuccess: {
-    "&:after": {
-      borderColor: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["successColor"]
-    }
-  },
-  whiteUnderline: {
-    "&:hover:not($disabled):before,&:before": {
-      borderColor: "#FFFFFF"
-    },
-    "&:after": {
-      borderColor: "#FFFFFF"
-    }
-  },
-  labelRoot: _objectSpread({}, assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["defaultFont"], {
-    color: "#AAAAAA !important",
-    fontWeight: "400",
-    fontSize: "14px",
-    lineHeight: "1.42857",
-    top: "10px",
-    letterSpacing: "unset",
-    "& + $underline": {
-      marginTop: "0px"
-    }
-  }),
-  labelRootError: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["dangerColor"] + " !important"
-  },
-  labelRootSuccess: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["successColor"] + " !important"
-  },
-  formControl: {
-    margin: "0 0 17px 0",
-    paddingTop: "27px",
-    position: "relative",
-    "& svg,& .fab,& .far,& .fal,& .fas,& .material-icons": {
-      color: "#495057"
-    }
-  },
-  input: {
-    color: "#495057",
-    height: "unset",
-    "&,&::placeholder": {
-      fontSize: "14px",
-      fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
-      fontWeight: "400",
-      lineHeight: "1.42857",
-      opacity: "1"
-    },
-    "&::placeholder": {
-      color: "#AAAAAA"
-    }
-  },
-  whiteInput: {
-    "&,&::placeholder": {
-      color: "#FFFFFF",
-      opacity: "1"
-    }
-  }
-};
-/* harmony default export */ __webpack_exports__["default"] = (customInputStyle);
-
-/***/ }),
-
 /***/ "./assets/jss/nextjs-material-kit/components/footerStyle.js":
 /*!******************************************************************!*\
   !*** ./assets/jss/nextjs-material-kit/components/footerStyle.js ***!
@@ -1234,76 +1024,6 @@ const headerStyle = {
 
 /***/ }),
 
-/***/ "./assets/jss/nextjs-material-kit/components/infoStyle.js":
-/*!****************************************************************!*\
-  !*** ./assets/jss/nextjs-material-kit/components/infoStyle.js ***!
-  \****************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! assets/jss/nextjs-material-kit.js */ "./assets/jss/nextjs-material-kit.js");
-
-const infoStyle = {
-  infoArea: {
-    maxWidth: "360px",
-    margin: "0 auto",
-    padding: "0px"
-  },
-  iconWrapper: {
-    float: "left",
-    marginTop: "24px",
-    marginRight: "10px"
-  },
-  primary: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["primaryColor"]
-  },
-  warning: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["warningColor"]
-  },
-  danger: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["dangerColor"]
-  },
-  success: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["successColor"]
-  },
-  info: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["infoColor"]
-  },
-  rose: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["roseColor"]
-  },
-  gray: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["grayColor"]
-  },
-  icon: {
-    width: "36px",
-    height: "36px"
-  },
-  descriptionWrapper: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["grayColor"],
-    overflow: "hidden"
-  },
-  title: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["title"],
-  description: {
-    color: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["grayColor"],
-    overflow: "hidden",
-    marginTop: "0px",
-    fontSize: "14px"
-  },
-  iconWrapperVertical: {
-    float: "none"
-  },
-  iconVertical: {
-    width: "61px",
-    height: "61px"
-  }
-};
-/* harmony default export */ __webpack_exports__["default"] = (infoStyle);
-
-/***/ }),
-
 /***/ "./assets/jss/nextjs-material-kit/components/parallaxStyle.js":
 /*!********************************************************************!*\
   !*** ./assets/jss/nextjs-material-kit/components/parallaxStyle.js ***!
@@ -1353,60 +1073,6 @@ const parallaxStyle = theme => ({
 });
 
 /* harmony default export */ __webpack_exports__["default"] = (parallaxStyle);
-
-/***/ }),
-
-/***/ "./assets/jss/nextjs-material-kit/imagesStyles.js":
-/*!********************************************************!*\
-  !*** ./assets/jss/nextjs-material-kit/imagesStyles.js ***!
-  \********************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-const imagesStyles = {
-  imgFluid: {
-    maxWidth: "100%",
-    height: "auto"
-  },
-  imgRounded: {
-    borderRadius: "6px !important"
-  },
-  imgRoundedCircle: {
-    borderRadius: "50% !important"
-  },
-  imgRaised: {
-    boxShadow: "0 5px 15px -8px rgba(0, 0, 0, 0.24), 0 8px 10px -5px rgba(0, 0, 0, 0.2)"
-  },
-  imgGallery: {
-    width: "100%",
-    marginBottom: "2.142rem"
-  },
-  imgCardTop: {
-    width: "100%",
-    borderTopLeftRadius: "calc(.25rem - 1px)",
-    borderTopRightRadius: "calc(.25rem - 1px)"
-  },
-  imgCardBottom: {
-    width: "100%",
-    borderBottomLeftRadius: "calc(.25rem - 1px)",
-    borderBottomRightRadius: "calc(.25rem - 1px)"
-  },
-  imgCard: {
-    width: "100%",
-    borderRadius: "calc(.25rem - 1px)"
-  },
-  imgCardOverlay: {
-    position: "absolute",
-    top: "0",
-    right: "0",
-    bottom: "0",
-    left: "0",
-    padding: "1.25rem"
-  }
-};
-/* harmony default export */ __webpack_exports__["default"] = (imagesStyles);
 
 /***/ }),
 
@@ -1460,68 +1126,6 @@ const componentsStyle = {
   }
 };
 /* harmony default export */ __webpack_exports__["default"] = (componentsStyle);
-
-/***/ }),
-
-/***/ "./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js":
-/*!************************************************************************************!*\
-  !*** ./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js ***!
-  \************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! assets/jss/nextjs-material-kit.js */ "./assets/jss/nextjs-material-kit.js");
-/* harmony import */ var assets_jss_nextjs_material_kit_imagesStyles_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/imagesStyles.js */ "./assets/jss/nextjs-material-kit/imagesStyles.js");
-function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) { symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); } keys.push.apply(keys, symbols); } return keys; }
-
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
-
-
-
-
-const typographyStyle = _objectSpread({
-  section: {
-    padding: "70px 0"
-  },
-  container: assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["container"],
-  space50: {
-    height: "50px",
-    display: "block"
-  },
-  title: _objectSpread({}, assets_jss_nextjs_material_kit_js__WEBPACK_IMPORTED_MODULE_0__["title"], {
-    marginTop: "30px",
-    minHeight: "32px",
-    textDecoration: "none"
-  }),
-  typo: {
-    paddingLeft: "25%",
-    marginBottom: "40px",
-    position: "relative",
-    width: "100%"
-  },
-  note: {
-    fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
-    bottom: "10px",
-    color: "#c0c1c2",
-    display: "block",
-    fontWeight: "400",
-    fontSize: "13px",
-    lineHeight: "13px",
-    left: "0",
-    marginLeft: "20px",
-    position: "absolute",
-    width: "260px"
-  },
-  marginLeft: {
-    marginLeft: "auto !important"
-  }
-}, assets_jss_nextjs_material_kit_imagesStyles_js__WEBPACK_IMPORTED_MODULE_1__["default"]);
-
-/* harmony default export */ __webpack_exports__["default"] = (typographyStyle);
 
 /***/ }),
 
@@ -1703,135 +1307,6 @@ RegularButton.propTypes = {
   className: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string
 };
 /* harmony default export */ __webpack_exports__["default"] = (RegularButton);
-
-/***/ }),
-
-/***/ "./components/CustomInput/CustomInput.js":
-/*!***********************************************!*\
-  !*** ./components/CustomInput/CustomInput.js ***!
-  \***********************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return CustomInput; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! classnames */ "classnames");
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/FormControl */ "@material-ui/core/FormControl");
-/* harmony import */ var _material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/InputLabel */ "@material-ui/core/InputLabel");
-/* harmony import */ var _material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Input */ "@material-ui/core/Input");
-/* harmony import */ var _material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var assets_jss_nextjs_material_kit_components_customInputStyle_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/components/customInputStyle.js */ "./assets/jss/nextjs-material-kit/components/customInputStyle.js");
-var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/components/CustomInput/CustomInput.js";
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
-
- // nodejs library to set properties for components
-
- // nodejs library that concatenates classes
-
- // @material-ui/core components
-
-
-
-
-
-
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__["makeStyles"])(assets_jss_nextjs_material_kit_components_customInputStyle_js__WEBPACK_IMPORTED_MODULE_7__["default"]);
-function CustomInput(props) {
-  const classes = useStyles();
-  const {
-    formControlProps,
-    labelText,
-    id,
-    labelProps,
-    inputProps,
-    error,
-    white,
-    inputRootCustomClasses,
-    success
-  } = props;
-  const labelClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
-    [" " + classes.labelRootError]: error,
-    [" " + classes.labelRootSuccess]: success && !error
-  });
-  const underlineClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
-    [classes.underlineError]: error,
-    [classes.underlineSuccess]: success && !error,
-    [classes.underline]: true,
-    [classes.whiteUnderline]: white
-  });
-  const marginTop = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
-    [inputRootCustomClasses]: inputRootCustomClasses !== undefined
-  });
-  const inputClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
-    [classes.input]: true,
-    [classes.whiteInput]: white
-  });
-  var formControlClasses;
-
-  if (formControlProps !== undefined) {
-    formControlClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()(formControlProps.className, classes.formControl);
-  } else {
-    formControlClasses = classes.formControl;
-  }
-
-  return __jsx(_material_ui_core_FormControl__WEBPACK_IMPORTED_MODULE_4___default.a, _extends({}, formControlProps, {
-    className: formControlClasses,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 57,
-      columnNumber: 5
-    }
-  }), labelText !== undefined ? __jsx(_material_ui_core_InputLabel__WEBPACK_IMPORTED_MODULE_5___default.a, _extends({
-    className: classes.labelRoot + " " + labelClasses,
-    htmlFor: id
-  }, labelProps, {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 59,
-      columnNumber: 9
-    }
-  }), labelText) : null, __jsx(_material_ui_core_Input__WEBPACK_IMPORTED_MODULE_6___default.a, _extends({
-    classes: {
-      input: inputClasses,
-      root: marginTop,
-      disabled: classes.disabled,
-      underline: underlineClasses
-    },
-    id: id
-  }, inputProps, {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 67,
-      columnNumber: 7
-    }
-  })));
-}
-CustomInput.propTypes = {
-  labelText: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.node,
-  labelProps: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
-  id: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
-  inputProps: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
-  formControlProps: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
-  inputRootCustomClasses: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
-  error: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
-  success: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
-  white: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool
-};
 
 /***/ }),
 
@@ -2502,116 +1977,6 @@ function HeaderLinks(props) {
     }
   }))))));
 }
-
-/***/ }),
-
-/***/ "./components/InfoArea/InfoArea.js":
-/*!*****************************************!*\
-  !*** ./components/InfoArea/InfoArea.js ***!
-  \*****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return InfoArea; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! classnames */ "classnames");
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var assets_jss_nextjs_material_kit_components_infoStyle_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/components/infoStyle.js */ "./assets/jss/nextjs-material-kit/components/infoStyle.js");
-var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/components/InfoArea/InfoArea.js";
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
- // nodejs library to set properties for components
-
- // nodejs library that concatenates classes
-
- // @material-ui/core components
-
-
-
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_3__["makeStyles"])(assets_jss_nextjs_material_kit_components_infoStyle_js__WEBPACK_IMPORTED_MODULE_4__["default"]);
-function InfoArea(props) {
-  const classes = useStyles();
-  const {
-    title,
-    description,
-    iconColor,
-    vertical
-  } = props;
-  const iconWrapper = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
-    [classes.iconWrapper]: true,
-    [classes[iconColor]]: true,
-    [classes.iconWrapperVertical]: vertical
-  });
-  const iconClasses = classnames__WEBPACK_IMPORTED_MODULE_2___default()({
-    [classes.icon]: true,
-    [classes.iconVertical]: vertical
-  });
-  return __jsx("div", {
-    className: classes.infoArea,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26,
-      columnNumber: 5
-    }
-  }, __jsx("div", {
-    className: iconWrapper,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 7
-    }
-  }, __jsx(props.icon, {
-    className: iconClasses,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 9
-    }
-  })), __jsx("div", {
-    className: classes.descriptionWrapper,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 7
-    }
-  }, __jsx("h4", {
-    className: classes.title,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 9
-    }
-  }, title), __jsx("p", {
-    className: classes.description,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 9
-    }
-  }, description)));
-}
-InfoArea.defaultProps = {
-  iconColor: "gray"
-};
-InfoArea.propTypes = {
-  icon: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object.isRequired,
-  title: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.node]).isRequired,
-  description: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string.isRequired,
-  iconColor: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(["primary", "warning", "danger", "success", "info", "rose", "gray"]),
-  vertical: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool
-};
 
 /***/ }),
 
@@ -4668,10 +4033,10 @@ if (false) {} else {
 
 /***/ }),
 
-/***/ "./pages-sections/LandingPage-Sections/AboutMe.js":
-/*!********************************************************!*\
-  !*** ./pages-sections/LandingPage-Sections/AboutMe.js ***!
-  \********************************************************/
+/***/ "./pages-sections/Resume/Summary.js":
+/*!******************************************!*\
+  !*** ./pages-sections/Resume/Summary.js ***!
+  \******************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4682,23 +4047,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
 /* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _material_ui_icons_Chat__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/icons/Chat */ "@material-ui/icons/Chat");
-/* harmony import */ var _material_ui_icons_Chat__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Chat__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _material_ui_icons_VerifiedUser__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/icons/VerifiedUser */ "@material-ui/icons/VerifiedUser");
-/* harmony import */ var _material_ui_icons_VerifiedUser__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_VerifiedUser__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _material_ui_icons_Fingerprint__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/icons/Fingerprint */ "@material-ui/icons/Fingerprint");
-/* harmony import */ var _material_ui_icons_Fingerprint__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Fingerprint__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
-/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
-/* harmony import */ var components_InfoArea_InfoArea_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! components/InfoArea/InfoArea.js */ "./components/InfoArea/InfoArea.js");
-/* harmony import */ var assets_jss_nextjs_material_kit_pages_landingPageSections_productStyle_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/landingPageSections/productStyle.js */ "./assets/jss/nextjs-material-kit/pages/landingPageSections/productStyle.js");
-var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/LandingPage-Sections/AboutMe.js";
+/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
+/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
+/* harmony import */ var assets_jss_nextjs_material_kit_pages_landingPageSections_productStyle_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/landingPageSections/productStyle.js */ "./assets/jss/nextjs-material-kit/pages/landingPageSections/productStyle.js");
+/* harmony import */ var _material_ui_icons__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/icons */ "@material-ui/icons");
+/* harmony import */ var _material_ui_icons__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons__WEBPACK_IMPORTED_MODULE_5__);
+var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/Resume/Summary.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
  // @material-ui/core components
-
- // @material-ui/icons
-
-
 
  // core components
 
@@ -4706,7 +4062,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__["makeStyles"])(assets_jss_nextjs_material_kit_pages_landingPageSections_productStyle_js__WEBPACK_IMPORTED_MODULE_8__["default"]);
+const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__["makeStyles"])(assets_jss_nextjs_material_kit_pages_landingPageSections_productStyle_js__WEBPACK_IMPORTED_MODULE_4__["default"]);
 function AboutMe() {
   const classes = useStyles();
   return __jsx("div", {
@@ -4714,721 +4070,859 @@ function AboutMe() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21,
+      lineNumber: 18,
       columnNumber: 5
     }
-  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
     justify: "center",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22,
-      columnNumber: 7
-    }
-  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_6__["default"], {
-    xs: 12,
-    sm: 12,
-    md: 8,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 9
-    }
-  }, __jsx("h2", {
-    className: classes.title,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 11
-    }
-  }, "About Prajjwal"), __jsx("h5", {
-    className: classes.description,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25,
-      columnNumber: 11
-    }
-  }, "Prajjwal Khanal is a Nepalese born engineer residing in Australia since 2017. He is an Infrastructure System Enginner for Rugby Australia working closely with department heads, development teams, executives and IT service desk to produce world class service. He has over 3 years of experience in system administration (Windows Server and Enterprise Security), cloud application(AWS, Azure and SaaS) and background in web application and database.", __jsx("br", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 13
-    }
-  }), __jsx("br", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 18
-    }
-  }), "He graduated Master's degree in Information Technology specializing in Cloud Computing from Charles Sturt University with academic achivement award in 2019. He has devoted his entire life in field of computer science and information technology. His current field of interest are Devops and cloud security."))));
-}
-
-/***/ }),
-
-/***/ "./pages-sections/LandingPage-Sections/Contact.js":
-/*!********************************************************!*\
-  !*** ./pages-sections/LandingPage-Sections/Contact.js ***!
-  \********************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Contact; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
-/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
-/* harmony import */ var components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! components/CustomInput/CustomInput.js */ "./components/CustomInput/CustomInput.js");
-/* harmony import */ var components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! components/CustomButtons/Button.js */ "./components/CustomButtons/Button.js");
-/* harmony import */ var assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js */ "./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js");
-/* harmony import */ var _material_ui_core__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core */ "@material-ui/core");
-/* harmony import */ var _material_ui_core__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/LandingPage-Sections/Contact.js";
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
- // @material-ui/core components
-
- // core components
-
-
-
-
-
-
-
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__["makeStyles"])(assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_6__["default"]);
-function Contact() {
-  const classes = useStyles();
-  return __jsx("div", {
-    className: classes.section,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19,
-      columnNumber: 5
-    }
-  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    justify: "center",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21,
-      columnNumber: 11
-    }
-  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22,
-      columnNumber: 11
-    }
-  }, __jsx("h2", {
-    className: classes.title,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 11
-    }
-  }, "Get in touch")))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    justify: "center",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 9
-    }
-  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 9
-    }
-  }, __jsx("h5", {
-    className: classes.description,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 11
-    }
-  }, "Feel free to reach out to me for consulting, contract or other opportunities", __jsx("br", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 89
-    }
-  }))))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    justify: "center",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36,
-      columnNumber: 7
-    }
-  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 12,
-    sm: 4,
-    md: 4,
-    lg: 3,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 37,
-      columnNumber: 9
-    }
-  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    labelText: "Name",
-    id: "Name",
-    formControlProps: {
-      fullWidth: true
-    },
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38,
-      columnNumber: 11
-    }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 12,
-    sm: 4,
-    md: 4,
-    lg: 3,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 46,
-      columnNumber: 9
-    }
-  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    labelText: "Email",
-    id: "Email",
-    formControlProps: {
-      fullWidth: true
-    },
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 47,
-      columnNumber: 11
-    }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 12,
-    sm: 4,
-    md: 4,
-    lg: 3,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 55,
-      columnNumber: 9
-    }
-  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    labelText: "Phone",
-    id: "Phone",
-    formControlProps: {
-      fullWidth: true
-    },
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 56,
-      columnNumber: 11
-    }
-  }))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    justify: "center",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 65,
       columnNumber: 7
     }
   }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 12,
     sm: 12,
     md: 8,
-    lg: 8,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66,
-      columnNumber: 7
+      lineNumber: 20,
+      columnNumber: 9
     }
-  }, __jsx(components_CustomInput_CustomInput_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    labelText: "Message",
-    id: "Message",
-    formControlProps: {
-      fullWidth: true
-    },
+  }, __jsx("h3", {
+    className: classes.title,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67,
+      lineNumber: 21,
+      columnNumber: 11
+    }
+  }, "CARRER OBECTIVE"), __jsx("h6", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22,
+      columnNumber: 11
+    }
+  }, "Solution driven AWS Certified SysOps Administrator adept at contributing to highly collaborative work environment with proven experience in Infrastructure (Cloud and On-prem), SaaS, Cyber Security, and customer satisfaction with background on web application and database. Seeking for an opportunity to leverage proven ability in DevOps domain.")), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 8,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  }, __jsx("h3", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30,
+      columnNumber: 11
+    }
+  }, "TECHNICAL SKILL"), __jsx("h5", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31,
+      columnNumber: 11
+    }
+  }, __jsx("ul", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32,
       columnNumber: 15
     }
-  }))), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    justify: "center",
+  }, __jsx("li", {
+    className: classes.description,
+    align: "left",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 77,
-      columnNumber: 7
+      lineNumber: 33,
+      columnNumber: 17
     }
-  }, __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    type: "button",
-    color: "success",
+  }, "Experience in ", __jsx("b", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78,
-      columnNumber: 10
+      lineNumber: 33,
+      columnNumber: 80
     }
-  }, "Submit")), __jsx("br", {
+  }, "CI/CD"), " (Continuous Integration/ Continuous Deployment) process, Strong background in Windows ", __jsx("b", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80,
-      columnNumber: 7
+      lineNumber: 33,
+      columnNumber: 179
+    }
+  }, "Server Administration"), " & Management and ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 33,
+      columnNumber: 225
+    }
+  }, "Cloud Implementation"), " all within that suite the needs of an environment under ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 33,
+      columnNumber: 309
+    }
+  }, "DevOps"), " Culture"), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34,
+      columnNumber: 17
+    }
+  }, "Understanding of ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34,
+      columnNumber: 83
+    }
+  }, "SDLC, Traditional, Agile,"), " and other methodologies"), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35,
+      columnNumber: 17
+    }
+  }, "Knowledge of ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35,
+      columnNumber: 79
+    }
+  }, "version control system "), " like Git and used source code management tools GitHub and Bitbucket including command line application"), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36,
+      columnNumber: 17
+    }
+  }, "Managed ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36,
+      columnNumber: 74
+    }
+  }, "Amazon Web Services"), " like Virtual Private cloud (VPC) EC2, S3 bucket, RDS, ELB, ASG, AMI, IAM and others"), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37,
+      columnNumber: 17
+    }
+  }, "Good Working experience with ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37,
+      columnNumber: 95
+    }
+  }, "bash script")), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38,
+      columnNumber: 17
+    }
+  }, "Hand-on experience with database ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38,
+      columnNumber: 99
+    }
+  }, "(MySQL, SQLite)")), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 39,
+      columnNumber: 17
+    }
+  }, "Good knowledge of ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 39,
+      columnNumber: 84
+    }
+  }, "HTML5, CSS3, C and PHP")), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40,
+      columnNumber: 17
+    }
+  }, "Excellent understanding of ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40,
+      columnNumber: 93
+    }
+  }, "Active Directory, DHCP, DNS, Remote Desktop, Exchange server and File Server")), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41,
+      columnNumber: 17
+    }
+  }, "Experience in administering ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41,
+      columnNumber: 94
+    }
+  }, "SaaS"), ", such as Microsoft Azure, Dropbox and Zoom"), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42,
+      columnNumber: 17
+    }
+  }, "Worked with FortiGate Firewall to enhance ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42,
+      columnNumber: 108
+    }
+  }, "cyber security")), __jsx("li", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43,
+      columnNumber: 17
+    }
+  }, "Experience in issue tracking tool like ", __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43,
+      columnNumber: 105
+    }
+  }, "Jira"))))), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 8,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 47,
+      columnNumber: 9
+    }
+  }, __jsx("h3", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 48,
+      columnNumber: 13
+    }
+  }, "EDUCATION"), __jsx("h5", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 49,
+      columnNumber: 13
+    }
+  }, __jsx("h6", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 50,
+      columnNumber: 13
+    }
+  }, "Professional Year | Performance Education, Australia", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 51,
+      columnNumber: 15
+    }
+  }), "2019", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 52,
+      columnNumber: 15
     }
   }), __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80,
-      columnNumber: 12
-    }
-  }), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    justify: "center",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 81,
-      columnNumber: 7
-    }
-  }, __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    href: "https://twitter.com/khanal_prajjwal",
-    justIcon: true,
-    link: true,
-    className: classes.margin5,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 82,
-      columnNumber: 9
-    }
-  }, __jsx("i", {
-    className: "fab fa-twitter",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 83,
-      columnNumber: 11
-    }
-  })), __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    href: "https://www.instagram.com/tech_wooer",
-    justIcon: true,
-    link: true,
-    className: classes.margin5,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 85,
-      columnNumber: 9
-    }
-  }, __jsx("i", {
-    className: "fab fa-instagram",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 86,
-      columnNumber: 11
-    }
-  })), __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    href: "https://www.linkedin.com/in/prajjwalkhanal/",
-    justIcon: true,
-    link: true,
-    className: classes.margin5,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 88,
-      columnNumber: 9
-    }
-  }, __jsx("i", {
-    className: "fab fa-linkedin",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 89,
-      columnNumber: 11
-    }
-  }))));
-}
-
-/***/ }),
-
-/***/ "./pages-sections/LandingPage-Sections/MySkills.js":
-/*!*********************************************************!*\
-  !*** ./pages-sections/LandingPage-Sections/MySkills.js ***!
-  \*********************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return MySkills; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/core/styles */ "@material-ui/core/styles");
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
-/* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
-/* harmony import */ var assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! assets/img/skills/Atlassian.png */ "./assets/img/skills/Atlassian.png");
-/* harmony import */ var assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! assets/img/skills/aws.png */ "./assets/img/skills/aws.png");
-/* harmony import */ var assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! assets/img/skills/docker.png */ "./assets/img/skills/docker.png");
-/* harmony import */ var assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! assets/img/skills/forticlient.png */ "./assets/img/skills/forticlient.png");
-/* harmony import */ var assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! assets/img/skills/Microsoft_Azure.png */ "./assets/img/skills/Microsoft_Azure.png");
-/* harmony import */ var assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! assets/img/skills/mysql.png */ "./assets/img/skills/mysql.png");
-/* harmony import */ var assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9__);
-/* harmony import */ var assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! assets/img/skills/php.png */ "./assets/img/skills/php.png");
-/* harmony import */ var assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! assets/img/skills/Saas.png */ "./assets/img/skills/Saas.png");
-/* harmony import */ var assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11__);
-/* harmony import */ var assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! assets/img/skills/vmware.png */ "./assets/img/skills/vmware.png");
-/* harmony import */ var assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12__);
-/* harmony import */ var assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! assets/img/skills/WindowsServer.png */ "./assets/img/skills/WindowsServer.png");
-/* harmony import */ var assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13__);
-/* harmony import */ var assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js */ "./assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js");
-var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages-sections/LandingPage-Sections/MySkills.js";
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
- // @material-ui/core components
-
- // @material-ui/icons
-// core components
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__["makeStyles"])(assets_jss_nextjs_material_kit_pages_componentsSections_typographyStyle_js__WEBPACK_IMPORTED_MODULE_14__["default"]);
-function MySkills() {
-  const classes = useStyles();
-  return __jsx("div", {
-    className: classes.section,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 5
-    }
-  }, __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    justify: "center",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: classes.title,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 7
-    }
-  }, __jsx("h2", {
-    className: classes.title,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33,
-      columnNumber: 13
-    }
-  }, "Some of my skills")), __jsx("div", {
-    className: classes.container,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 7
-    }
-  }, __jsx("div", {
-    className: classes.space50,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36,
-      columnNumber: 9
-    }
-  }), __jsx("div", {
-    id: "images",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 37,
-      columnNumber: 9
-    }
-  }, __jsx("br", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38,
-      columnNumber: 11
-    }
-  }), __jsx(components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39,
-      columnNumber: 11
-    }
-  }, __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 40,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_skills_Atlassian_png__WEBPACK_IMPORTED_MODULE_4___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41,
+      lineNumber: 53,
       columnNumber: 15
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 47,
-      columnNumber: 13
-    }
-  }, __jsx("img", {
-    src: assets_img_skills_aws_png__WEBPACK_IMPORTED_MODULE_5___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 48,
-      columnNumber: 15
-    }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }), "Master Of Information Technolgy | Charles Sturt University, Australia", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 54,
-      columnNumber: 13
+      columnNumber: 15
     }
-  }, __jsx("img", {
-    src: assets_img_skills_Microsoft_Azure_png__WEBPACK_IMPORTED_MODULE_8___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }), "2017-2019"))), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 8,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55,
-      columnNumber: 15
+      lineNumber: 58,
+      columnNumber: 9
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }, __jsx("h3", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 59,
+      columnNumber: 13
+    }
+  }, "EXPERIENCE"), __jsx("h5", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 60,
+      columnNumber: 13
+    }
+  }, __jsx("h6", {
+    className: classes.title,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 61,
       columnNumber: 13
     }
-  }, __jsx("img", {
-    src: assets_img_skills_WindowsServer_png__WEBPACK_IMPORTED_MODULE_13___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }, "INFRASTRUCTURE SYSTEM ENGINEER | RUGBY AUSTRALIA", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 62,
-      columnNumber: 15
+      columnNumber: 17
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }), "OCT 2019 - CURRENT", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 63,
+      columnNumber: 17
+    }
+  }), __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 63,
+      columnNumber: 22
+    }
+  }), "Responsibilities"), __jsx("ul", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 65,
+      columnNumber: 17
+    }
+  }, __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 66,
+      columnNumber: 19
+    }
+  }, "Researching, analyzing, and evaluating system program needs"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 67,
+      columnNumber: 19
+    }
+  }, "Establishing complex system, defining their configuration, and executing their installation as per the network standards"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 68,
+      columnNumber: 19
+    }
+  }, "Preparing reports regarding the performance of a system"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 69,
-      columnNumber: 13
+      columnNumber: 19
     }
-  }, __jsx("img", {
-    src: assets_img_skills_mysql_png__WEBPACK_IMPORTED_MODULE_9___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }, "Maintaining the network system by upgrading the hardware and software timely"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 70,
-      columnNumber: 15
+      columnNumber: 19
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }, "Administrating the access of third-party applications to avoid any damage to the company\u2019s data and information"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 76,
+      lineNumber: 71,
+      columnNumber: 19
+    }
+  }, "Finding faults in the system and repairing them"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 72,
+      columnNumber: 19
+    }
+  }, "Providing System and Network support to the users and clients through phone or email"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 73,
+      columnNumber: 19
+    }
+  }, "Monitoring the system with respect to the traffic, activity status, usage, and capacity to ensure its optimal working"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 74,
+      columnNumber: 19
+    }
+  }, "Coordinating with the staff and the departments of the organisation and establishing effective communication with the team to ensure smooth working of the network systems")))), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 8,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 78,
+      columnNumber: 9
+    }
+  }, __jsx("h5", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 79,
       columnNumber: 13
     }
-  }, __jsx("img", {
-    src: assets_img_skills_docker_png__WEBPACK_IMPORTED_MODULE_6___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }, __jsx("h6", {
+    className: classes.title,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 77,
-      columnNumber: 15
+      lineNumber: 80,
+      columnNumber: 13
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }, "IT SUPPORT ENGINNER | Medical Staff Pty Ltd", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 81,
+      columnNumber: 17
+    }
+  }), "APRIL 2018 \u2013 OCT 2019", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 82,
+      columnNumber: 17
+    }
+  }), __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 82,
+      columnNumber: 22
+    }
+  }), "Responsibilities"), __jsx("h5", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 84,
+      columnNumber: 17
+    }
+  }, "\u2022 Install and configure computer hardware, software, system, network, printer and scanner"), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 85,
-      columnNumber: 13
+      columnNumber: 17
     }
-  }, __jsx("img", {
-    src: assets_img_skills_forticlient_png__WEBPACK_IMPORTED_MODULE_7___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }, "\u2022 Maintain and monitor computer system, servers, and network"), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 86,
-      columnNumber: 15
+      columnNumber: 17
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }, "\u2022 Provide technical support across the company (on-site and remote)"), __jsx("h5", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 87,
+      columnNumber: 17
+    }
+  }, "\u2022 Active Directory, File server, and Exchange server monitoring and maintenance"), __jsx("h5", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 88,
+      columnNumber: 17
+    }
+  }, "\u2022 New user setup, assign system right and provide an orientation to IT infrastructure"), __jsx("h5", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 89,
+      columnNumber: 17
+    }
+  }, "\u2022 Website development, host, and maintenance"), __jsx("h5", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 90,
+      columnNumber: 17
+    }
+  }, "\u2022 Broad knowledge of SMS gateway and mass SMS"), __jsx("h5", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 91,
+      columnNumber: 17
+    }
+  }, "\u2022 Social media, digital marketing, and data analysis"), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 92,
-      columnNumber: 13
+      columnNumber: 17
     }
-  }, __jsx("img", {
-    src: assets_img_skills_vmware_png__WEBPACK_IMPORTED_MODULE_12___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }, "\u2022 System design liaise with extern support to develop and implement the system"), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 93,
+      columnNumber: 17
+    }
+  }, "\u2022 Windows Upgrade, Venus Upgrade and MYOB upgrade"))), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 8,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 96,
+      columnNumber: 9
+    }
+  }, __jsx("h5", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 97,
+      columnNumber: 13
+    }
+  }, __jsx("h6", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 98,
       columnNumber: 15
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }, "Information Management Officer | ACTED Nepal", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 99,
+      columnNumber: 17
+    }
+  }), "MARCH 2016 \u2013 DECEMBER 2016", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 100,
-      columnNumber: 13
+      columnNumber: 17
     }
-  }, __jsx("img", {
-    src: assets_img_skills_Saas_png__WEBPACK_IMPORTED_MODULE_11___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }), __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 101,
+      lineNumber: 100,
+      columnNumber: 22
+    }
+  }), "Responsibilities"), __jsx("ul", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 102,
       columnNumber: 15
     }
-  })), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    xs: 5,
-    sm: 3,
-    className: classes.marginRight,
+  }, __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 103,
+      columnNumber: 17
+    }
+  }, "Support the District Coordinator to provide local government and partner's timely, consistent, and compatible data and information on I/NGO activities throughout the district"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 104,
+      columnNumber: 17
+    }
+  }, "Act as the DLSA District-level focal point in cross-sector and cross-coordination forums for information management and analysis"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 105,
+      columnNumber: 17
+    }
+  }, "Work in coordination with relevant sectors or forums in developing common district level information management architecture for data collection, collation, dissemination, and analysis, including archiving, and application of common tools, standards, and indicators"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 106,
+      columnNumber: 17
+    }
+  }, "Act as the DLSA IM focal-point for linkages with all district-level stakeholders, particularly local actors, for enhanced sectoral risk mapping and gap identification"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 107,
-      columnNumber: 13
+      columnNumber: 17
     }
-  }, __jsx("img", {
-    src: assets_img_skills_php_png__WEBPACK_IMPORTED_MODULE_10___default.a,
-    alt: "...",
-    className: classes.imgRounded + " " + classes.imgFluid,
+  }, "Provide district-level sector-specific maps and graphics on a regular basis that aid the District Coordinator, the VSO Coordinator, and other district-level actors, in forwarding planning and analysis"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 108,
+      columnNumber: 17
+    }
+  }, "Support National level IM activities as required, particularly with analysis of information"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 109,
+      columnNumber: 17
+    }
+  }, "Liaise with relevant government counterparts and participate in IM Network meetings as required")))), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 8,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 113,
+      columnNumber: 9
+    }
+  }, __jsx("h5", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 114,
+      columnNumber: 13
+    }
+  }, __jsx("h6", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 115,
       columnNumber: 15
     }
-  })))), __jsx("div", {
-    className: classes.space50,
+  }, "Software Engineer | ICT IN AGRICULTURE, Kathmandu", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 116,
+      columnNumber: 17
+    }
+  }), "FEBURRY 2014 \u2013 FEBURARY 2016", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 117,
+      columnNumber: 17
+    }
+  }), __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 117,
+      columnNumber: 22
+    }
+  }), "Responsibilities"), __jsx("ul", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 119,
+      columnNumber: 15
+    }
+  }, __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 120,
+      columnNumber: 17
+    }
+  }, "Designing software as per project requirements for optimal operation efficiency"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 121,
+      columnNumber: 17
+    }
+  }, "Using PASCAL, PHP and MYSQL to develop SQL Master scripts to support the ETL process"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 122,
+      columnNumber: 17
+    }
+  }, "Developing and managing projects using version control system and project management software"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 123,
+      columnNumber: 17
+    }
+  }, "Developing web and mobile application using Java and PHP"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 124,
+      columnNumber: 17
+    }
+  }, "Coordinating with development team to increase the flexibility and usability of the design"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 125,
+      columnNumber: 17
+    }
+  }, "Conducting software system testing and validation procedures, programming and documentation based on user stories formulated by Senior Business Analysts")))), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 12,
+    sm: 12,
+    md: 8,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 129,
       columnNumber: 9
     }
-  }))));
+  }, __jsx("h3", {
+    className: classes.title,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 130,
+      columnNumber: 11
+    }
+  }, "KEY ATTRIBUTES"), __jsx("h5", {
+    className: classes.description,
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 131,
+      columnNumber: 11
+    }
+  }, __jsx("ul", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 132,
+      columnNumber: 13
+    }
+  }, __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 133,
+      columnNumber: 17
+    }
+  }, "Team-player with good coordination skills"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 134,
+      columnNumber: 17
+    }
+  }, "Highly motivated results driven with a strong work ethic"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 135,
+      columnNumber: 17
+    }
+  }, "Effective at multitasking and able to take direction"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 136,
+      columnNumber: 17
+    }
+  }, "Possess strong analytical and problem-solving skills, with the ability to make well thought out decision"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 137,
+      columnNumber: 17
+    }
+  }, "Honest, reliable, and punctual"), __jsx("li", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 138,
+      columnNumber: 17
+    }
+  }, "Flexible, adaptable, and keen to take initiatives"))))));
 }
 
 /***/ }),
@@ -5455,10 +4949,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var components_Grid_GridContainer_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! components/Grid/GridContainer.js */ "./components/Grid/GridContainer.js");
 /* harmony import */ var components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! components/Grid/GridItem.js */ "./components/Grid/GridItem.js");
 /* harmony import */ var components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! components/Parallax/Parallax.js */ "./components/Parallax/Parallax.js");
-/* harmony import */ var pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/AboutMe.js */ "./pages-sections/LandingPage-Sections/AboutMe.js");
-/* harmony import */ var pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/MySkills.js */ "./pages-sections/LandingPage-Sections/MySkills.js");
-/* harmony import */ var pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! pages-sections/LandingPage-Sections/Contact.js */ "./pages-sections/LandingPage-Sections/Contact.js");
-/* harmony import */ var assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/components.js */ "./assets/jss/nextjs-material-kit/pages/components.js");
+/* harmony import */ var pages_sections_Resume_Summary_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! pages-sections/Resume/Summary.js */ "./pages-sections/Resume/Summary.js");
+/* harmony import */ var assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! assets/jss/nextjs-material-kit/pages/components.js */ "./assets/jss/nextjs-material-kit/pages/components.js");
+/* harmony import */ var _material_ui_icons__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @material-ui/icons */ "@material-ui/icons");
+/* harmony import */ var _material_ui_icons__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons__WEBPACK_IMPORTED_MODULE_11__);
 var _jsxFileName = "/Users/prajjwalkhanal/Documents/Next.JS/NextJS-PersonalWebsite/pages/resume.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5481,8 +4975,7 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 
 
-
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_2__["makeStyles"])(assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_12__["default"]);
+const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_2__["makeStyles"])(assets_jss_nextjs_material_kit_pages_components_js__WEBPACK_IMPORTED_MODULE_10__["default"]);
 function Resume(props) {
   const classes = useStyles();
   const rest = Object.assign({}, props);
@@ -5518,7 +5011,6 @@ function Resume(props) {
     }
   })), __jsx(components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_8__["default"], {
     image: __webpack_require__(/*! assets/img/nextjs_header.jpg */ "./assets/img/nextjs_header.jpg"),
-    justify: "center",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -5576,35 +5068,21 @@ function Resume(props) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54,
+      lineNumber: 53,
       columnNumber: 7
     }
-  }, __jsx(pages_sections_LandingPage_Sections_AboutMe_js__WEBPACK_IMPORTED_MODULE_9__["default"], {
+  }, __jsx(pages_sections_Resume_Summary_js__WEBPACK_IMPORTED_MODULE_9__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55,
-      columnNumber: 9
-    }
-  }), __jsx(pages_sections_LandingPage_Sections_MySkills_js__WEBPACK_IMPORTED_MODULE_10__["default"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 56,
-      columnNumber: 9
-    }
-  }), __jsx(pages_sections_LandingPage_Sections_Contact_js__WEBPACK_IMPORTED_MODULE_11__["default"], {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 57,
+      lineNumber: 54,
       columnNumber: 9
     }
   })), __jsx(components_Footer_Footer_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59,
+      lineNumber: 56,
       columnNumber: 7
     }
   }));
@@ -5668,17 +5146,6 @@ module.exports = require("@material-ui/core/Drawer");
 
 /***/ }),
 
-/***/ "@material-ui/core/FormControl":
-/*!************************************************!*\
-  !*** external "@material-ui/core/FormControl" ***!
-  \************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("@material-ui/core/FormControl");
-
-/***/ }),
-
 /***/ "@material-ui/core/Grid":
 /*!*****************************************!*\
   !*** external "@material-ui/core/Grid" ***!
@@ -5720,28 +5187,6 @@ module.exports = require("@material-ui/core/Icon");
 /***/ (function(module, exports) {
 
 module.exports = require("@material-ui/core/IconButton");
-
-/***/ }),
-
-/***/ "@material-ui/core/Input":
-/*!******************************************!*\
-  !*** external "@material-ui/core/Input" ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("@material-ui/core/Input");
-
-/***/ }),
-
-/***/ "@material-ui/core/InputLabel":
-/*!***********************************************!*\
-  !*** external "@material-ui/core/InputLabel" ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("@material-ui/core/InputLabel");
 
 /***/ }),
 
@@ -5822,17 +5267,6 @@ module.exports = require("@material-ui/icons");
 
 /***/ }),
 
-/***/ "@material-ui/icons/Chat":
-/*!******************************************!*\
-  !*** external "@material-ui/icons/Chat" ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("@material-ui/icons/Chat");
-
-/***/ }),
-
 /***/ "@material-ui/icons/Favorite":
 /*!**********************************************!*\
   !*** external "@material-ui/icons/Favorite" ***!
@@ -5844,17 +5278,6 @@ module.exports = require("@material-ui/icons/Favorite");
 
 /***/ }),
 
-/***/ "@material-ui/icons/Fingerprint":
-/*!*************************************************!*\
-  !*** external "@material-ui/icons/Fingerprint" ***!
-  \*************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("@material-ui/icons/Fingerprint");
-
-/***/ }),
-
 /***/ "@material-ui/icons/Menu":
 /*!******************************************!*\
   !*** external "@material-ui/icons/Menu" ***!
@@ -5863,17 +5286,6 @@ module.exports = require("@material-ui/icons/Fingerprint");
 /***/ (function(module, exports) {
 
 module.exports = require("@material-ui/icons/Menu");
-
-/***/ }),
-
-/***/ "@material-ui/icons/VerifiedUser":
-/*!**************************************************!*\
-  !*** external "@material-ui/icons/VerifiedUser" ***!
-  \**************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("@material-ui/icons/VerifiedUser");
 
 /***/ }),
 

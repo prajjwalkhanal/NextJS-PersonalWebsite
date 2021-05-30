@@ -12,11 +12,11 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Parallax from "components/Parallax/Parallax.js";
 // sections for this page
-import AboutMe from "pages-sections/LandingPage-Sections/AboutMe.js";
-import MySkill from "pages-sections/LandingPage-Sections/MySkills.js";
-import Contact from "pages-sections/LandingPage-Sections/Contact.js";
+import Summary from "pages-sections/Resume/Summary.js";
 
 import styles from "assets/jss/nextjs-material-kit/pages/components.js";
+import { FormatAlignJustify } from "@material-ui/icons";
+
 
 const useStyles = makeStyles(styles);
 
@@ -43,18 +43,15 @@ export default function Resume(props) {
               <div className={classes.brand}>
                 <h1 className={classes.title}>Resume</h1>
                 <h3 className={classes.subtitle}>
-                It is a brief story about me and my career. If you require a plain resume, please Download at the top right.
+                    It is a brief story about me and my career. If you require a plain resume, please Download at the top right.
                 </h3>
               </div>
             </GridItem>
           </GridContainer>
         </div>
       </Parallax>
-
       <div className={classNames(classes.main, classes.mainRaised)}>
-        <AboutMe/>
-        <MySkill/>
-        <Contact/>
+        <Summary/>
       </div>
       <Footer/>
     </div>
