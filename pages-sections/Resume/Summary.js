@@ -18,10 +18,10 @@ export default function AboutMe() {
     <div className={classes.section}>
       <GridContainer justify="center">
         <GridItem xs={12} sm={12} md={8} >
-          <h3 className={classes.title}>CARRER OBECTIVE</h3>
+          <h3 className={classes.title}>CAREER OBJECTIVE</h3>
           <h6 className={classes.title}>
-            Solution driven AWS Certified SysOps Administrator adept at contributing to highly collaborative 
-            work environment with proven experience in Infrastructure (Cloud and On-prem), SaaS, Cyber Security, 
+            Solution driven AWS Certified SysOps Administrator adept at contributing to a highly collaborative 
+            work environment with proven experience in Infrastructure (Cloud and On-prem), SaaS, CyberSecurity, 
             and customer satisfaction with background on web application and database. Seeking for an 
             opportunity to leverage proven ability in DevOps domain.
             </h6>
@@ -30,17 +30,17 @@ export default function AboutMe() {
           <h3 className={classes.title}>TECHNICAL SKILL</h3>
           <h5 className={classes.description} align="left">
               <ul>
-                <li className={classes.description} align="left">Experience in <b>CI/CD</b> (Continuous Integration/ Continuous Deployment) process, Strong background in Windows <b>Server Administration</b> & Management and <b>Cloud Implementation</b> all within that suite the needs of an environment under <b>DevOps</b> Culture</li>
+                <li className={classes.description} align="left">Experience in <b>CI/CD</b> (Continuous Integration/ Continuous Deployment) process, Strong background in Windows <b>Server Administration</b> & Management and <b>Cloud Implementation</b> all within that suit the needs of an environment under <b>DevOps</b> Culture</li>
                 <li className={classes.description} align="left">Understanding of <b>SDLC, Traditional, Agile,</b> and other methodologies</li>
-                <li className={classes.description} align="left">Knowledge of <b>version control system </b> like Git and used source code management tools GitHub and Bitbucket including command line application</li>
-                <li className={classes.description} align="left">Managed <b>Amazon Web Services</b> like Virtual Private cloud (VPC) EC2, S3 bucket, RDS, ELB, ASG, AMI, IAM and others</li>
+                <li className={classes.description} align="left">Knowledge of <b>version control systems </b> like Git and source code management tools GitHub and Bitbucket including command line application</li>
+                <li className={classes.description} align="left">Managed <b>Amazon Web Services</b> like Virtual Private Cloud (VPC) EC2, S3 bucket, RDS, ELB, ASG, AMI, IAM and others</li>
                 <li className={classes.description} align="left">Good Working experience with <b>bash script</b></li>
-                <li className={classes.description} align="left">Hand-on experience with database <b>(MySQL, SQLite)</b></li>
+                <li className={classes.description} align="left">Hand-on experience with databases and query languages <b>(MySQL, SQLite)</b></li>
                 <li className={classes.description} align="left">Good knowledge of <b>HTML5, CSS3, C and PHP</b></li>
                 <li className={classes.description} align="left">Excellent understanding of <b>Active Directory, DHCP, DNS, Remote Desktop, Exchange server and File Server</b></li>
                 <li className={classes.description} align="left">Experience in administering <b>SaaS</b>, such as Microsoft Azure, Dropbox and Zoom</li>
-                <li className={classes.description} align="left">Worked with FortiGate Firewall to enhance <b>cyber security</b></li>
-                <li className={classes.description} align="left">Experience in issue tracking tool like <b>Jira</b></li>
+                <li className={classes.description} align="left">Worked with FortiGate Firewall to enhance <b>cybersecurity</b></li>
+                <li className={classes.description} align="left">Experience in issue tracking tools like <b>Jira</b></li>
               </ul>
             </h5>
         </GridItem>
@@ -64,20 +64,20 @@ export default function AboutMe() {
               </h6>
                 <ul>
                   <li>Researching, analyzing, and evaluating system program needs</li>
-                  <li>Establishing complex system, defining their configuration, and executing their installation as per the network standards</li>
+                  <li>Establishing complex systems, defining their configuration, and executing their installation as per the network standards</li>
                   <li>Preparing reports regarding the performance of a system</li>
                   <li>Maintaining the network system by upgrading the hardware and software timely</li>
                   <li>Administrating the access of third-party applications to avoid any damage to the company’s data and information</li>
                   <li>Finding faults in the system and repairing them</li>
                   <li>Providing System and Network support to the users and clients through phone or email</li>
-                  <li>Monitoring the system with respect to the traffic, activity status, usage, and capacity to ensure its optimal working</li>
+                  <li>Monitoring the system concerning the traffic, activity status, usage, and capacity to ensure its optimal working</li>
                   <li>Coordinating with the staff and the departments of the organisation and establishing effective communication with the team to ensure smooth working of the network systems</li> 
                 </ul>
             </h5>
         </GridItem>
         <GridItem xs={12} sm={12} md={8}>
             <h5 className={classes.description} align="left">
-            <h6 className={classes.title}>IT SUPPORT ENGINNER | Medical Staff Pty Ltd
+            <h6 className={classes.title}>IT SUPPORT ENGINEER | Medical Staff Pty Ltd
                 <br/>APRIL 2018 – OCT 2019
                 <br/><br/>Responsibilities
             </h6>
@@ -102,9 +102,9 @@ export default function AboutMe() {
               <ul>
                 <li>Support the District Coordinator to provide local government and partner's timely, consistent, and compatible data and information on I/NGO activities throughout the district</li>
                 <li>Act as the DLSA District-level focal point in cross-sector and cross-coordination forums for information management and analysis</li>
-                <li>Work in coordination with relevant sectors or forums in developing common district level information management architecture for data collection, collation, dissemination, and analysis, including archiving, and application of common tools, standards, and indicators</li>               
+                <li>Work in coordination with relevant sectors or forums in developing common district-level information management architecture for data collection, collation, dissemination, and analysis, including archiving, and application of common tools, standards, and indicators</li>               
                 <li>Act as the DLSA IM focal-point for linkages with all district-level stakeholders, particularly local actors, for enhanced sectoral risk mapping and gap identification</li>
-                <li>Provide district-level sector-specific maps and graphics on a regular basis that aid the District Coordinator, the VSO Coordinator, and other district-level actors, in forwarding planning and analysis</li>                
+                <li>Provide district-level sector-specific maps and graphics regularly that aid the District Coordinator, the VSO Coordinator, and other district-level actors, in forwarding planning and analysis</li>                
                 <li>Support National level IM activities as required, particularly with analysis of information</li>
                 <li>Liaise with relevant government counterparts and participate in IM Network meetings as required</li>
               </ul>
@@ -113,15 +113,15 @@ export default function AboutMe() {
         <GridItem xs={12} sm={12} md={8}>
             <h5 className={classes.description} align="left">
               <h6 className={classes.title}>Software Engineer | ICT IN AGRICULTURE, Kathmandu
-                <br/>FEBURRY 2014 – FEBURARY 2016
+                <br/>FEBRUARY 2014 – FEBRUARY 2016
                 <br/><br/>Responsibilities
               </h6>
               <ul>
                 <li>Designing software as per project requirements for optimal operation efficiency</li>
                 <li>Using PASCAL, PHP and MYSQL to develop SQL Master scripts to support the ETL process</li>              
                 <li>Developing and managing projects using version control system and project management software</li>                           
-                <li>Developing web and mobile application using Java and PHP</li>
-                <li>Coordinating with development team to increase the flexibility and usability of the design</li>              
+                <li>Developing web and mobile applications using Java and PHP</li>
+                <li>Coordinating with the development team to increase the flexibility and usability of the design</li>              
                 <li>Conducting software system testing and validation procedures, programming and documentation based on user stories formulated by Senior Business Analysts</li>
               </ul>
             </h5>
@@ -131,7 +131,7 @@ export default function AboutMe() {
           <h5 className={classes.description} align="left">
             <ul>
                 <li>Team-player with good coordination skills</li>
-                <li>Highly motivated results driven with a strong work ethic</li>
+                <li>Highly motivated results-driven with a strong work ethic</li>
                 <li>Effective at multitasking and able to take direction</li>
                 <li>Possess strong analytical and problem-solving skills, with the ability to make well thought out decision</li>
                 <li>Honest, reliable, and punctual</li>

@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 6);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -4099,7 +4099,7 @@ function AboutMe() {
       lineNumber: 21,
       columnNumber: 11
     }
-  }, "CARRER OBECTIVE"), __jsx("h6", {
+  }, "CAREER OBJECTIVE"), __jsx("h6", {
     className: classes.title,
     __self: this,
     __source: {
@@ -4107,7 +4107,7 @@ function AboutMe() {
       lineNumber: 22,
       columnNumber: 11
     }
-  }, "Solution driven AWS Certified SysOps Administrator adept at contributing to highly collaborative work environment with proven experience in Infrastructure (Cloud and On-prem), SaaS, Cyber Security, and customer satisfaction with background on web application and database. Seeking for an opportunity to leverage proven ability in DevOps domain.")), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, "Solution driven AWS Certified SysOps Administrator adept at contributing to a highly collaborative work environment with proven experience in Infrastructure (Cloud and On-prem), SaaS, CyberSecurity, and customer satisfaction with background on web application and database. Seeking for an opportunity to leverage proven ability in DevOps domain.")), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 12,
     sm: 12,
     md: 8,
@@ -4171,12 +4171,12 @@ function AboutMe() {
       lineNumber: 33,
       columnNumber: 225
     }
-  }, "Cloud Implementation"), " all within that suite the needs of an environment under ", __jsx("b", {
+  }, "Cloud Implementation"), " all within that suit the needs of an environment under ", __jsx("b", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33,
-      columnNumber: 309
+      columnNumber: 308
     }
   }, "DevOps"), " Culture"), __jsx("li", {
     className: classes.description,
@@ -4210,7 +4210,7 @@ function AboutMe() {
       lineNumber: 35,
       columnNumber: 79
     }
-  }, "version control system "), " like Git and used source code management tools GitHub and Bitbucket including command line application"), __jsx("li", {
+  }, "version control systems "), " like Git and source code management tools GitHub and Bitbucket including command line application"), __jsx("li", {
     className: classes.description,
     align: "left",
     __self: this,
@@ -4226,7 +4226,7 @@ function AboutMe() {
       lineNumber: 36,
       columnNumber: 74
     }
-  }, "Amazon Web Services"), " like Virtual Private cloud (VPC) EC2, S3 bucket, RDS, ELB, ASG, AMI, IAM and others"), __jsx("li", {
+  }, "Amazon Web Services"), " like Virtual Private Cloud (VPC) EC2, S3 bucket, RDS, ELB, ASG, AMI, IAM and others"), __jsx("li", {
     className: classes.description,
     align: "left",
     __self: this,
@@ -4251,12 +4251,12 @@ function AboutMe() {
       lineNumber: 38,
       columnNumber: 17
     }
-  }, "Hand-on experience with database ", __jsx("b", {
+  }, "Hand-on experience with databases and query languages ", __jsx("b", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 38,
-      columnNumber: 99
+      columnNumber: 120
     }
   }, "(MySQL, SQLite)")), __jsx("li", {
     className: classes.description,
@@ -4322,7 +4322,7 @@ function AboutMe() {
       lineNumber: 42,
       columnNumber: 108
     }
-  }, "cyber security")), __jsx("li", {
+  }, "cybersecurity")), __jsx("li", {
     className: classes.description,
     align: "left",
     __self: this,
@@ -4331,12 +4331,12 @@ function AboutMe() {
       lineNumber: 43,
       columnNumber: 17
     }
-  }, "Experience in issue tracking tool like ", __jsx("b", {
+  }, "Experience in issue tracking tools like ", __jsx("b", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 43,
-      columnNumber: 105
+      columnNumber: 106
     }
   }, "Jira"))))), __jsx(components_Grid_GridItem_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 12,
@@ -4478,7 +4478,7 @@ function AboutMe() {
       lineNumber: 67,
       columnNumber: 19
     }
-  }, "Establishing complex system, defining their configuration, and executing their installation as per the network standards"), __jsx("li", {
+  }, "Establishing complex systems, defining their configuration, and executing their installation as per the network standards"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4520,7 +4520,7 @@ function AboutMe() {
       lineNumber: 73,
       columnNumber: 19
     }
-  }, "Monitoring the system with respect to the traffic, activity status, usage, and capacity to ensure its optimal working"), __jsx("li", {
+  }, "Monitoring the system concerning the traffic, activity status, usage, and capacity to ensure its optimal working"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4554,7 +4554,7 @@ function AboutMe() {
       lineNumber: 80,
       columnNumber: 13
     }
-  }, "IT SUPPORT ENGINNER | Medical Staff Pty Ltd", __jsx("br", {
+  }, "IT SUPPORT ENGINEER | Medical Staff Pty Ltd", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4721,7 +4721,7 @@ function AboutMe() {
       lineNumber: 105,
       columnNumber: 17
     }
-  }, "Work in coordination with relevant sectors or forums in developing common district level information management architecture for data collection, collation, dissemination, and analysis, including archiving, and application of common tools, standards, and indicators"), __jsx("li", {
+  }, "Work in coordination with relevant sectors or forums in developing common district-level information management architecture for data collection, collation, dissemination, and analysis, including archiving, and application of common tools, standards, and indicators"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4735,7 +4735,7 @@ function AboutMe() {
       lineNumber: 107,
       columnNumber: 17
     }
-  }, "Provide district-level sector-specific maps and graphics on a regular basis that aid the District Coordinator, the VSO Coordinator, and other district-level actors, in forwarding planning and analysis"), __jsx("li", {
+  }, "Provide district-level sector-specific maps and graphics regularly that aid the District Coordinator, the VSO Coordinator, and other district-level actors, in forwarding planning and analysis"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4783,7 +4783,7 @@ function AboutMe() {
       lineNumber: 116,
       columnNumber: 17
     }
-  }), "FEBURRY 2014 \u2013 FEBURARY 2016", __jsx("br", {
+  }), "FEBRUARY 2014 \u2013 FEBRUARY 2016", __jsx("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4832,14 +4832,14 @@ function AboutMe() {
       lineNumber: 123,
       columnNumber: 17
     }
-  }, "Developing web and mobile application using Java and PHP"), __jsx("li", {
+  }, "Developing web and mobile applications using Java and PHP"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 124,
       columnNumber: 17
     }
-  }, "Coordinating with development team to increase the flexibility and usability of the design"), __jsx("li", {
+  }, "Coordinating with the development team to increase the flexibility and usability of the design"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4894,7 +4894,7 @@ function AboutMe() {
       lineNumber: 134,
       columnNumber: 17
     }
-  }, "Highly motivated results driven with a strong work ethic"), __jsx("li", {
+  }, "Highly motivated results-driven with a strong work ethic"), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -5090,7 +5090,7 @@ function Resume(props) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 6:
 /*!*******************************!*\
   !*** multi ./pages/resume.js ***!
   \*******************************/

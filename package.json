@@ -40,6 +40,7 @@
   "dependencies": {
     "@material-ui/core": "4.9.13",
     "@material-ui/icons": "4.9.1",
+    "@sendgrid/mail": "^7.4.5",
     "@zeit/next-sass": "1.0.1",
     "classnames": "2.2.6",
     "moment": "2.25.3",
