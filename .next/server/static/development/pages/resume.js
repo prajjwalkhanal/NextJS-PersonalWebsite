@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 6);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -115,14 +115,14 @@ module.exports = require("next/dist/next-server/lib/utils.js");
 
 /***/ }),
 
-/***/ "./assets/img/nextjs_header.jpg":
-/*!**************************************!*\
-  !*** ./assets/img/nextjs_header.jpg ***!
-  \**************************************/
+/***/ "./assets/img/bg2.jpg":
+/*!****************************!*\
+  !*** ./assets/img/bg2.jpg ***!
+  \****************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/nextjs_header-06352dc62bfac7ad2ffe08100bfe8018.jpg";
+module.exports = "/_next/static/images/bg2-843781834b1db2908f08d921c6460c81.jpg";
 
 /***/ }),
 
@@ -5010,7 +5010,7 @@ function Resume(props) {
       columnNumber: 7
     }
   })), __jsx(components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_8__["default"], {
-    image: __webpack_require__(/*! assets/img/nextjs_header.jpg */ "./assets/img/nextjs_header.jpg"),
+    image: __webpack_require__(/*! assets/img/bg2.jpg */ "./assets/img/bg2.jpg"),
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -5090,7 +5090,7 @@ function Resume(props) {
 
 /***/ }),
 
-/***/ 6:
+/***/ 3:
 /*!*******************************!*\
   !*** multi ./pages/resume.js ***!
   \*******************************/

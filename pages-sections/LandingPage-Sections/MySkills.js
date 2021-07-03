@@ -19,6 +19,7 @@ import php from "assets/img/skills/php.png";
 import saas from "assets/img/skills/Saas.png";
 import vmware from "assets/img/skills/vmware.png";
 import windowsserver from "assets/img/skills/WindowsServer.png";
+import terraform from "assets/img/skills/terraform.png"
 
 import styles from "assets/jss/nextjs-material-kit/pages/componentsSections/typographyStyle.js";
 
@@ -84,7 +85,7 @@ export default function MySkills() {
             
             <GridItem xs={5} sm={3} className={classes.marginRight}>
               <img
-                src={forticlient}
+                src={terraform}
                 alt="..."
                 className={classes.imgRounded + " " + classes.imgFluid}
               />
@@ -107,6 +108,14 @@ export default function MySkills() {
             <GridItem xs={5} sm={3} className={classes.marginRight}>
               <img
                 src={php}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+
+            <GridItem xs={5} sm={3} className={classes.marginRight}>
+              <img
+                src={forticlient}
                 alt="..."
                 className={classes.imgRounded + " " + classes.imgFluid}
               />
