@@ -36,7 +36,7 @@ export default function Resume(props) {
         }}
         {...rest}
       />
-      <Parallax image={require("assets/img/nextjs_header.jpg")}>
+      <Parallax image={require("assets/img/bg2.jpg")}>
         <div className={classes.container}>
           <GridContainer>
             <GridItem>
